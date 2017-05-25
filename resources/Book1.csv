@@ -1,0 +1,977 @@
+NPI,CCN,Provider_Type,Business_State_Territory,ZIP,Specialty,Hospital_Type,Program_Type,Program_Year,Provider_Stage_Number,Payment_Year,Attestation_Month,Attestation_Year,MU_Definition_2014,Stage_2_Scheduled_2014,EHR_Certification_Number,EHR_Product_CHP_Id,Vendor_Name,EHR_Product_Name,EHR_Product_Version,Product_Classification,Product_Setting,Product_Certification_Edition_Yr
+1003000142,,EP,Ohio,43623,Anesthesiology,,Medicare,2014,Stage 1,1,9,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003000142,,EP,Ohio,43623,Anesthesiology,,Medicare,2015,Stage 1,2,2,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003000522,,EP,Florida,32725,Family Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003000522,,EP,Florida,32725,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2013,1,A0H1301NC8QYEAL,CHP-018548,NextGen Healthcare,NextGen Ambulatory EHR,5.8,Complete EHR,Ambulatory,2011
+1003000522,,EP,Florida,32725,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2013,1,A0H1301NC8QYEAL,CHP-021999,NextGen Healthcare,NextGen Ambulatory EHR,5.8.0.77,Complete EHR,Ambulatory,2014
+1003000522,,EP,Florida,32725,Family Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003000522,,EP,Florida,32725,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,0014EWR4DR4GCQ6,14.07.07.2880.ATA1.08.1.1.161123,"athenahealth, Inc.",athenaClinicals,16.11,Complete EHR,Ambulatory,2014
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2012,Stage 1,1,11,2012,,1,30000004TQGMEAQ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,30000004TQGMEAQ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01O5FAMEAN,CHP-019270,Get Real Health,InstantPHR,3,Modular EHR,Ambulatory,2014
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01O5FAMEAN,CHP-021796,Allscripts,Allscripts Enterprise EHR,Version 11.4.1 (CQM Phase 3),Modular EHR,Ambulatory,2014
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PDRTLEAR,CHP-019270,Get Real Health,InstantPHR,3,Modular EHR,Ambulatory,2014
+1003000530,,EP,Pennsylvania,18951,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PDRTLEAR,CHP-022204,Allscripts,Allscripts TouchWorks EHR,11.4.1,Modular EHR,Ambulatory,2014
+1003000597,,EP,Oklahoma,74104,Urology,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003000597,,EP,Oklahoma,74104,Urology,,Medicare,2016,Stage 1,,1,2017,,0,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003000621,,EP,Virginia,23901,Chiropractor,,Medicare,2012,Stage 1,1,9,2012,,1,30000004S9VAEA0,CHP-008186,"MPN Software Systems, Inc.",ECLIPSE,2011,Complete EHR,Ambulatory,2011
+1003000639,,EP,California,90095,Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003000902,,EP,Indiana,40212,Family Medicine,,Medicare,2012,Stage 1,1,9,2012,,1,30000001SW7XEAS,CHP-007428,GE Healthcare,Centricity Practice Solution,9.5,Complete EHR,Ambulatory,2011
+1003000902,,EP,Indiana,40212,Family Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001CJJK1EAN,CHP-009439,GE Healthcare,Centricity Practice Solution,10.1.3,Complete EHR,Ambulatory,2011
+1003000902,,EP,Indiana,40212,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01KHMOZEAF,CHP-021419,GE Healthcare,Centricity Practice Solution,12,Complete EHR,Ambulatory,2014
+1003000902,,EP,Indiana,40212,Family Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PSDJ4EAH,CHP-028297,GE Healthcare,Centricity Practice Solution,12.0 R3,Complete EHR,Ambulatory,2014
+1003000902,,EP,Indiana,40212,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RM6O0EAL,CHP-028849,GE Healthcare,Centricity Practice Solution,12.0 R4,Complete EHR,Ambulatory,2014
+1003000936,,EP,South Carolina,29203,Internal Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01P3YNZEAF,CHP-023137,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2014
+1003000936,,EP,South Carolina,29203,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01P3YPFEAF,CHP-023136,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2014
+1003001256,,EP,Colorado,80620,Family Medicine,,Medicare,2013,Stage 1,2,12,2013,,0,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003001256,,EP,Colorado,80620,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,0,A014E01NDHFMEAH,CHP-022048,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003001256,,EP,Colorado,80620,Family Medicine,,Medicare,2015,Stage 2,4,1,2016,,0,1314E01PUPLSEAF,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003001256,,EP,Colorado,80620,Family Medicine,,Medicare,2015,Stage 2,4,1,2016,,0,1314E01PUPLSEAF,CHP-024743,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2010 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003001363,,EP,California,92243,Anesthesiology,,Medicare,2013,Stage 1,1,5,2013,,0,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003001462,,EP,Georgia,30642,Radiology,,Medicare,2015,Stage 1,,3,2016,,0,1314E01P3YLAEAV,CHP-023026,"Elekta - IMPAC Medical Systems, Inc.",MOSAIQ,2.6,Complete EHR,Ambulatory,2014
+1003001645,,EP,California,95815,Internal Medicine,,Medicare,2013,Stage 1,1,8,2013,,0,A0H1301FVVLYEAP,CHP-019280,"athenahealth, Inc.",athenaClinicals,13.5,Complete EHR,Ambulatory,2011
+1003001645,,EP,California,95815,Internal Medicine,,Medicare,2014,Stage 1,2,6,2014,2014,0,A014E01NCQ8ZEAX,CHP-022105,"athenahealth, Inc.",athenaClinicals,14.3,Complete EHR,Ambulatory,2014
+1003001645,,EP,California,95815,Internal Medicine,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RBGY5EAD,CHP-028427,"athenahealth, Inc.",athenaClinicals,15.1,Complete EHR,Ambulatory,2014
+1003001785,,EP,Oklahoma,33765,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMU1YEAT,CHP-018655,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010,Complete EHR,Ambulatory,2014
+1003001785,,EP,Oklahoma,33765,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMU1YEAT,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003001785,,EP,Oklahoma,33765,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMU1YEAT,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003001785,,EP,Oklahoma,33765,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMU1YEAT,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003001884,,EP,Michigan,48532,Family Medicine,,Medicare,2011,Stage 1,1,2,2012,,1,30000005HGYZEAO,CHP-007827,Amazing Charts,Amazing Charts,6.1.1,Complete EHR,Ambulatory,2011
+1003001884,,EP,Michigan,48532,Family Medicine,,Medicare,2013,Stage 1,3,3,2014,,1,30000005HGYZEAO,CHP-007827,Amazing Charts,Amazing Charts,6.1.1,Complete EHR,Ambulatory,2011
+1003001884,,EP,Michigan,48532,Family Medicine,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01QGHHKEAX,CHP-025504,Amazing Charts,Amazing Charts,8.2,Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2012,Stage 1,1,11,2012,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301IF7FQEAB,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301IF7FQEAB,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301IF7FQEAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCQYIEAX,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCQYIEAX,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCQYIEAX,CHP-025226,"Sunquest Information Systems, Inc.",Sunquest Laboratory,7,Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-021118,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014,Modular EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-021119,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2014,Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-021120,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite (with Beaker),Epic 2014,Complete EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-021122,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014,Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-022035,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-022050,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite (with Beaker),Epic 2014 (April 2013 CQMs),Complete EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-022052,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-023664,Epic Systems Corporation,Outgoing Public Health Reporting from EpicCare Functionality,Epic 2014,Modular EHR,Inpatient,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003002049,,EP,California,94538,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCQQWEAH,CHP-025226,"Sunquest Information Systems, Inc.",Sunquest Laboratory,7,Modular EHR,Inpatient,2014
+1003002098,,EP,Ohio,44077,Chiropractor,,Medicare,2015,Stage 1,,1,2016,,0,A014E01OSQDVEAN,CHP-022867,"Integrated Practice Solutions, Inc.",ChiroTouch,6,Complete EHR,Ambulatory,2014
+1003002312,,EP,Massachusetts,2169,Specialist,,Medicare,2013,Stage 1,1,9,2013,,0,A000001GVSASEAR,CHP-019323,"MedPlus, A Quest Diagnostics Company",Care360 EHR,2013.2,Complete EHR,Ambulatory,2011
+1003002312,,EP,Massachusetts,2169,Specialist,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01QAAAJEA1,CHP-025312,Quest Diagnostics Incorporated,Care360 EHR,2015.1,Complete EHR,Ambulatory,2014
+1003002486,,EP,Missouri,63090,Chiropractor,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01OSQDVEAN,CHP-022867,"Integrated Practice Solutions, Inc.",ChiroTouch,6,Complete EHR,Ambulatory,2014
+1003002742,,EP,Iowa,52807,Pain Medicine,,Medicare,2011,Stage 1,1,1,2012,,1,30000004H0RCEA0,CHP-006625,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003002742,,EP,Iowa,52807,Pain Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000004H0RCEA0,CHP-006625,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003002742,,EP,Iowa,52807,Pain Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,30000004H0RCEA0,CHP-006625,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003002742,,EP,Iowa,52807,Pain Medicine,,Medicare,2014,Stage 2,4,2,2015,2014,1,1314E01PLWXGEAT,CHP-022482,Practice Fusion,Practice Fusion EHR,3.1,Complete EHR,Ambulatory,2014
+1003002742,,EP,Iowa,52807,Pain Medicine,,Medicare,2014,Stage 2,4,2,2015,2014,1,1314E01PLWXGEAT,CHP-024043,Practice Fusion,Practice Fusion EHR,3.2,Complete EHR,Ambulatory,2014
+1003002783,,EP,Pennsylvania,15213,Specialist,,Medicare,2013,Stage 1,1,3,2014,,0,30000005Q6GNEAQ,CHP-007661,"Ramsoft, Inc.",RamSoft PowerServer,5.1,Complete EHR,Ambulatory,2011
+1003002783,,EP,Pennsylvania,15213,Specialist,,Medicare,2014,Stage 1,2,2,2015,2013,0,30000005Q6GNEAQ,CHP-007661,"Ramsoft, Inc.",RamSoft PowerServer,5.1,Complete EHR,Ambulatory,2011
+1003002783,,EP,Pennsylvania,15213,Specialist,,Medicare,2015,Stage 2,3,3,2016,,0,1314E01Q9CBIEAN,CHP-024234,"Ramsoft, Inc.",RamSoft PowerServer,6,Complete EHR,Ambulatory,2014
+1003002817,,EP,Florida,33166,Family Medicine,,Medicare,2011,Stage 1,1,1,2012,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003002817,,EP,Florida,33166,Family Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003002817,,EP,Florida,33166,Family Medicine,,Medicare,2013,Stage 1,3,1,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003002817,,EP,Florida,33166,Family Medicine,,Medicare,2014,Stage 1,4,1,2015,2013,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003002817,,EP,Florida,33166,Family Medicine,,Medicare,2015,Stage 2,5,3,2016,,1,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003002890,,EP,Colorado,80601,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2013,0,A000001DAB2XEAR,CHP-018402,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2011
+1003002890,,EP,Colorado,80601,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01QFMOLEAL,CHP-025493,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003003153,,EP,Washington,98104,Dermatology,,Medicare,2014,Stage 1,1,11,2014,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003003153,,EP,Washington,98104,Dermatology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003003609,,EP,Texas,75231,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000004H0RCEA0,CHP-006625,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003003609,,EP,Texas,75231,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003003856,,EP,New York,11776,Family Medicine,,Medicare,2015,Stage 1,,1,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-019313,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022555,Cerner Corporation,PathNet,2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022556,Cerner Corporation,FirstNet (Clinical),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022557,Cerner Corporation,Powerchart (Clinical),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022558,Cerner Corporation,Powerchart (Image Results),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022559,Cerner Corporation,FirstNet (Image Results),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022560,Cerner Corporation,Cerner Patient Portal and FirstNet,2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022561,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022562,Cerner Corporation,FirstNet (eRX),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022563,Cerner Corporation,Powerchart (All CQM's),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-022564,Cerner Corporation,Powerchart (eRX),2012.01.28,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023315,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023316,Cerner Corporation,FirstNet (Image Results),2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023320,Cerner Corporation,Powerchart (Image Results),2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023321,Cerner Corporation,Powerchart (Clinical),2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023324,Cerner Corporation,Powerchart (CQM),2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023327,Cerner Corporation,PathNet,2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023328,Cerner Corporation,FirstNet (Clinical),2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PM16HEAT,CHP-023330,Cerner Corporation,Cerner Patient Portal and FirstNet,2012.01.28,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-019313,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-024967,"Wellcentive, Inc.",Wellcentive Registry,3,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025428,Cerner Corporation,Powerchart (Clinical),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025429,Cerner Corporation,Powerchart (Clinical),2015.01.03,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025460,Cerner Corporation,FirstNet (Clinical),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025462,Cerner Corporation,HealtheLife and Powerchart,2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025463,Cerner Corporation,HealtheLife and Powerchart,2015.01.03,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025465,Cerner Corporation,Powerchart (Image Results),2015.01.03,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025466,Cerner Corporation,Powerchart (Image Results),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025469,Cerner Corporation,PathNet,2015.01.03,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025470,Cerner Corporation,PathNet,2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025471,Cerner Corporation,Powerchart (eRX),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025472,Cerner Corporation,FirstNet (eRx),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-025473,Cerner Corporation,Powerchart (All CQM's),2015.01.03,Modular EHR,Inpatient,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-027111,Cerner Corporation,HealthSentry,2015.03,Modular EHR,Ambulatory,2014
+1003004326,,EP,Michigan,49009,Emergency Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RM5ZPEAT,CHP-027115,Cerner Corporation,HealthSentry,2015.03,Modular EHR,Inpatient,2014
+1003004540,,EP,Florida,33461,Ophthalmology,,Medicare,2015,Stage 1,,3,2016,,0,1314E01RCQGWEAH,CHP-028683,"Modernizing Medicine, Inc.",EMA,4.0.0.10,Complete EHR,Ambulatory,2014
+1003004771,,EP,Colorado,80120,Internal Medicine,,Medicare,2012,Stage 1,1,1,2013,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003004771,,EP,Colorado,80120,Internal Medicine,,Medicare,2013,Stage 1,2,5,2014,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003004771,,EP,Colorado,80120,Internal Medicine,,Medicare,2014,Stage 1,3,1,2015,2013,1,A0H1301DACHIEAB,CHP-018402,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2011
+1003004771,,EP,Colorado,80120,Internal Medicine,,Medicare,2015,Stage 2,4,5,2016,,1,1314E01QFMOLEAL,CHP-025493,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003005109,,EP,California,93030,Otolaryngology,,Medicare,2012,Stage 1,1,6,2012,,1,30000001TSHOEA4,CHP-007518,"AllMeds, Inc.",AllMeds EHR,9,Complete EHR,Ambulatory,2011
+1003005109,,EP,California,93030,Otolaryngology,,Medicare,2013,Stage 1,2,2,2014,,1,30000001TSHOEA4,CHP-007518,"AllMeds, Inc.",AllMeds EHR,9,Complete EHR,Ambulatory,2011
+1003005109,,EP,California,93030,Otolaryngology,,Medicare,2014,Stage 1,3,1,2015,2013,1,30000001TSHOEA4,CHP-007518,"AllMeds, Inc.",AllMeds EHR,9,Complete EHR,Ambulatory,2011
+1003005109,,EP,California,93030,Otolaryngology,,Medicare,2015,Stage 2,4,3,2016,,1,1314E01QAKK1EAP,CHP-025267,"AllMeds, Inc.",AllMeds Specialty EHR,10,Complete EHR,Ambulatory,2014
+1003005372,,EP,New York,10065,Physical Medicine & Rehabilitation,,Medicare,2013,Stage 1,1,2,2014,,0,A000001CO2E3EAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003005372,,EP,New York,10065,Physical Medicine & Rehabilitation,,Medicare,2014,Stage 1,2,8,2014,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003005372,,EP,New York,10065,Physical Medicine & Rehabilitation,,Medicare,2015,Stage 2,3,5,2016,,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003005836,,EP,Nebraska,55905,Internal Medicine,,Medicare,2013,Stage 1,1,1,2014,,0,A0H1301DAUIZEAV,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003005836,,EP,Nebraska,55905,Internal Medicine,,Medicare,2014,Stage 1,2,10,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003006107,,EP,Texas,15501,Internal Medicine,,Medicare,2013,Stage 1,1,3,2014,,0,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003006107,,EP,Texas,15501,Internal Medicine,,Medicare,2014,Stage 1,2,3,2015,2014,0,A014E01NDQHJEAX,CHP-022118,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003006107,,EP,Texas,15501,Internal Medicine,,Medicare,2015,Stage 2,3,3,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003006172,,EP,Oklahoma,73109,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVELEAS,CHP-007430,SuiteMed,Intelligent Medical Software (IMS),V14,Complete EHR,Ambulatory,2011
+1003006172,,EP,Oklahoma,73109,Internal Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,30000001SVELEAS,CHP-007430,SuiteMed,Intelligent Medical Software (IMS),V14,Complete EHR,Ambulatory,2011
+1003006172,,EP,Oklahoma,73109,Internal Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01NBURYEAL,CHP-022005,Meditab Software Inc.,IMS,14 SP1,Complete EHR,Ambulatory,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2013,Stage 1,1,11,2013,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,10,2014,2014,0,1314E01P4LOYEAB,CHP-018653,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2010,Modular EHR,Inpatient,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,10,2014,2014,0,1314E01P4LOYEAB,CHP-018655,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010,Complete EHR,Ambulatory,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,10,2014,2014,0,1314E01P4LOYEAB,CHP-018656,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2010,Modular EHR,Inpatient,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,10,2014,2014,0,1314E01P4LOYEAB,CHP-022032,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2010 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01POFIYEA5,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01POFIYEA5,CHP-022035,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01POFIYEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003006198,,EP,Hawaii,95616,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01POFIYEA5,CHP-022052,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003006552,,EP,Florida,33841,Family Medicine,,Medicare,2011,Stage 1,1,11,2011,,1,30000001TQQIEAO,CHP-007520,"SOAPware, Inc.",SOAPware,2011,Complete EHR,Ambulatory,2011
+1003006552,,EP,Florida,33841,Family Medicine,,Medicare,2013,Stage 1,3,1,2014,,1,30000005YQXQEAK,CHP-007057,"SOAPware, Inc.",SOAPware,2012,Complete EHR,Ambulatory,2011
+1003006552,,EP,Florida,33841,Family Medicine,,Medicare,2014,Stage 2,4,2,2015,2014,1,A014E01NDQHJEAX,CHP-022118,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003006552,,EP,Florida,33841,Family Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,A014E01NDQHJEAX,CHP-022118,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003006602,,EP,Mississippi,39440,Surgery,,Medicare,2014,Stage 1,1,3,2015,2013,0,A000001COOITEAX,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003006602,,EP,Mississippi,39440,Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01PVGUMEAZ,CHP-025230,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.10),Complete EHR,Ambulatory,2014
+1003006636,,EP,Virginia,23462,Radiology,,Medicare,2013,Stage 1,1,2,2014,,0,A000001CCNPPEA1,CHP-009002,medQ inc.,Q/ris 3000,Version 5.0,Complete EHR,Ambulatory,2011
+1003006636,,EP,Virginia,23462,Radiology,,Medicare,2014,Stage 1,2,2,2015,2013,0,A000001CCNPPEA1,CHP-009002,medQ inc.,Q/ris 3000,Version 5.0,Complete EHR,Ambulatory,2011
+1003006636,,EP,Virginia,23462,Radiology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01PUQS6EAN,CHP-025044,medQ inc.,Q/ris 3000,6.0 MU,Modular EHR,Ambulatory,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2012,Stage 1,1,10,2012,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,A000001FUTVMEAL,CHP-007345,Epic Systems Corporation,EpicCare Inpatient - Core EMR,2010,Complete EHR,Inpatient,2011
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,A000001FUTVMEAL,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,A000001FUTVMEAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,A000001FUTVMEAL,CHP-009352,Epic Systems Corporation,EpicCare Inpatient - Core EMR,Epic 2012,Complete EHR,Inpatient,2011
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2014,Stage 2,3,2,2015,2014,1,1314E01PKFDFEAH,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2014,Stage 2,3,2,2015,2014,1,1314E01PKFDFEAH,CHP-019740,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012,Modular EHR,Inpatient,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2014,Stage 2,3,2,2015,2014,1,1314E01PKFDFEAH,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2014,Stage 2,3,2,2015,2014,1,1314E01PKFDFEAH,CHP-021122,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014,Modular EHR,Inpatient,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01PHLGGEAX,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003006651,,EP,North Dakota,58103,Obstetrics & Gynecology,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01PHLGGEAX,CHP-021122,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014,Modular EHR,Inpatient,2014
+1003006701,,EP,Indiana,47904,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01MBYSKEAR,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003006701,,EP,Indiana,47904,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01MBYSKEAR,CHP-021745,SCC Soft Computer,SoftLab,4.0.7,Modular EHR,Inpatient,2014
+1003006701,,EP,Illinois,47904,Psychiatry & Neurology,,Medicare,2016,Stage 2,3,1,2017,,0,0014EWR4DR4GCQ6,14.07.07.2880.ATA1.08.1.1.161123,"athenahealth, Inc.",athenaClinicals,16.11,Complete EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2011,Stage 1,1,2,2012,,1,30000004RUWQEAU,CHP-006510,eMDs,e-MDs Solution Series,7.2,Complete EHR,Ambulatory,2011
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000004RUWQEAU,CHP-006510,eMDs,e-MDs Solution Series,7.2,Complete EHR,Ambulatory,2011
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2013,Stage 1,3,3,2014,,1,30000004RUWQEAU,CHP-006510,eMDs,e-MDs Solution Series,7.2,Complete EHR,Ambulatory,2011
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01R9MJBEAZ,CHP-023196,Cerner Corporation,Powerchart (Clinical),2012.01.30,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01R9MJBEAZ,CHP-024700,Cerner Corporation,HealtheLife and Powerchart,2012.01.34,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01R9MJBEAZ,CHP-024716,Cerner Corporation,Powerchart (CQM),2012.01.30,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01R9MJBEAZ,CHP-025100,Cerner Corporation,Cerner Sentinel Cloud Audit Reporting and Cerner Sentinel Cloud Audit Service,1.10 (Reporting) and 4.3 (Service),Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01R9MJBEAZ,CHP-028312,Cerner Corporation,HealthSentry,2015.07,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,14.07.07.1221.HEA2.04.1.1.160906,Cerner Corporation,HealtheLife and Powerchart,2015.01.16,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,14.07.07.1221.POA1.04.1.1.160906,Cerner Corporation,Powerchart (CQM),2015.01.16,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,14.07.07.1221.POA5.04.1.1.160906,Cerner Corporation,Powerchart (Clinical),2015.01.16,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-025100,Cerner Corporation,Cerner Sentinel Cloud Audit Reporting and Cerner Sentinel Cloud Audit Service,1.10 (Reporting) and 4.3 (Service),Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-025427,Cerner Corporation,Powerchart (CQM),2015.01.03,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-025429,Cerner Corporation,Powerchart (Clinical),2015.01.03,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-025463,Cerner Corporation,HealtheLife and Powerchart,2015.01.03,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-027705,The Advisory Board Company,Crimson Medical Referrals,2,Modular EHR,Inpatient,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-029216,Cerner Corporation,Powerchart (Clinical),2015.01.13,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-029218,Cerner Corporation,Powerchart (CQM),2015.01.13,Modular EHR,Ambulatory,2014
+1003007048,,EP,Arizona,85255,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0014EUN4DWD87W1,CHP-029220,Cerner Corporation,HealtheLife and Powerchart,2015.01.13,Modular EHR,Ambulatory,2014
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2014,Stage 1,4,12,2014,2014,1,1314E01P3YKUEAB,CHP-021796,Allscripts,Allscripts Enterprise EHR,Version 11.4.1 (CQM Phase 3),Modular EHR,Ambulatory,2014
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2014,Stage 1,4,12,2014,2014,1,1314E01P3YKUEAB,CHP-022003,"NantHealth, Inc.",Harris Patient Portal,5.1.2,Modular EHR,Ambulatory,2014
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RMAIKEA5,CHP-022207,Allscripts,Allscripts Enterprise EHR,11.4.1 (CQM Phase 4),Modular EHR,Ambulatory,2014
+1003007170,,EP,Illinois,60657,Internal Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RMAIKEA5,CHP-023193,"NantHealth, Inc.",Harris Patient Portal,5.1.2 AHC R1,Modular EHR,Ambulatory,2014
+1003007204,,EP,Texas,77304,Internal Medicine,,Medicare,2013,Stage 1,1,1,2014,,0,30000001SVJPEAK,CHP-007439,eMDs,e-MDs Solution Series,7,Complete EHR,Ambulatory,2011
+1003007204,,EP,Texas,77304,Internal Medicine,,Medicare,2014,Stage 1,2,1,2015,2013,0,30000001SVJPEAK,CHP-007439,eMDs,e-MDs Solution Series,7,Complete EHR,Ambulatory,2011
+1003007204,,EP,Texas,77304,Internal Medicine,,Medicare,2015,Stage 2,3,1,2016,,0,A014E01KIENGEAN,CHP-021523,eMDs,e-MDs Cloud Solutions,v. Cirrus (01/2014),Complete EHR,Ambulatory,2014
+1003007204,,EP,Texas,77304,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,A014E01KIENGEAN,CHP-021523,eMDs,e-MDs Cloud Solutions,v. Cirrus (01/2014),Complete EHR,Ambulatory,2014
+1003007287,,EP,Texas,93311,Internal Medicine,,Medicare,2012,Stage 1,1,1,2013,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003007469,,EP,Texas,78654,Anesthesiology,,Medicare,2012,Stage 1,1,1,2013,,1,A000001DYO2NEAT,CHP-009573,Allscripts,Allscripts Professional EHR,12.1,Complete EHR,Ambulatory,2011
+1003007469,,EP,Texas,78654,Anesthesiology,,Medicare,2013,Stage 1,2,1,2014,,1,A000001DYO2NEAT,CHP-009573,Allscripts,Allscripts Professional EHR,12.1,Complete EHR,Ambulatory,2011
+1003007469,,EP,Texas,78654,Anesthesiology,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01PSAV2EAF,CHP-025031,Allscripts,Allscripts Professional EHR,Version 14.2,Complete EHR,Ambulatory,2014
+1003007816,,EP,Maryland,20910,Ophthalmology,,Medicare,2013,Stage 1,1,6,2014,,0,A000001DACNMEAR,CHP-018399,Integrated Health Care Solutions,IHCS Vehracity,2.1,Complete EHR,Ambulatory,2011
+1003007816,,EP,Maryland,20910,Ophthalmology,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PGUB0EAH,CHP-023337,Medical Mastermind,Mastermind EHR,5,Complete EHR,Ambulatory,2014
+1003007816,,EP,Maryland,20910,Ophthalmology,,Medicare,2015,Stage 2,3,3,2016,,0,1314E01PGUB0EAH,CHP-023337,Medical Mastermind,Mastermind EHR,5,Complete EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PLPMFEA5,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PLPMFEA5,CHP-023081,Cerner Corporation,HealthSentry,2014.04,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RBJMREAL,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RBJMREAL,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RBJMREAL,CHP-028435,Cerner Corporation,HealthSentry,2015.09,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2016,Stage 2,3,1,2017,,0,0014ENB7NDT8CS2,14.07.07.1221.CEA1.10.1.0.161122,Cerner Corporation,HealthSentry,2016.09,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2016,Stage 2,3,1,2017,,0,0014ENB7NDT8CS2,14.07.07.1221.CEA1.11.1.0.161122,Cerner Corporation,HealthSentry,2016.1,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2016,Stage 2,3,1,2017,,0,0014ENB7NDT8CS2,14.07.07.1221.CEA1.12.1.0.161122,Cerner Corporation,HealthSentry,2016.11,Modular EHR,Ambulatory,2014
+1003007907,,EP,Oregon,97227,Internal Medicine,,Medicare,2016,Stage 2,3,1,2017,,0,0014ENB7NDT8CS2,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003007980,,EP,Alabama,35243,Internal Medicine,,Medicare,2012,Stage 1,1,4,2012,,1,30000001SW7XEAS,CHP-007428,GE Healthcare,Centricity Practice Solution,9.5,Complete EHR,Ambulatory,2011
+1003007980,,EP,Alabama,35243,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SW7XEAS,CHP-007428,GE Healthcare,Centricity Practice Solution,9.5,Complete EHR,Ambulatory,2011
+1003007980,,EP,Alabama,35243,Internal Medicine,,Medicare,2014,Stage 1,3,1,2015,2013,1,30000001SW7XEAS,CHP-007428,GE Healthcare,Centricity Practice Solution,9.5,Complete EHR,Ambulatory,2011
+1003008111,,EP,Georgia,31520,Obstetrics & Gynecology,,Medicare,2012,Stage 1,1,6,2012,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003008111,,EP,Georgia,31520,Obstetrics & Gynecology,,Medicare,2014,Stage 1,3,3,2015,2014,1,1314E01PGVA4EAH,CHP-023357,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.10),Complete EHR,Ambulatory,2014
+1003008111,,EP,Georgia,31520,Obstetrics & Gynecology,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01QFMOLEAL,CHP-025493,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003008533,,EP,Florida,34109,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,1,2015,2014,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003008533,,EP,Florida,34109,Psychiatry & Neurology,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003008699,,EP,Minnesota,55454,Internal Medicine,,Medicare,2013,Stage 1,1,2,2014,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003008699,,EP,Minnesota,55454,Internal Medicine,,Medicare,2014,Stage 1,2,1,2015,2014,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2012,Stage 1,1,11,2012,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2014,Stage 2,3,1,2015,2014,1,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PUPMWEAV,CHP-021118,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014,Modular EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PUPMWEAV,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PUPMWEAV,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PUPMWEAV,CHP-022048,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCONPEAX,CHP-027708,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2015,Modular EHR,Ambulatory,2014
+1003009085,,EP,Pennsylvania,19104,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01RCONPEAX,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003009119,,EP,Virginia,20132,Family Medicine,,Medicare,2013,Stage 1,1,1,2014,,0,30000001SVMBEAS,CHP-007444,"Pulse Systems, Inc",2011 Pulse Complete EHR,2011,Complete EHR,Ambulatory,2011
+1003009119,,EP,Virginia,20132,Family Medicine,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PH5Q1EAD,CHP-023172,"Pulse Systems, Inc",Pulse Complete EHR,4.2.08,Complete EHR,Ambulatory,2014
+1003009119,,EP,Virginia,20132,Family Medicine,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01PH5Q1EAD,CHP-023172,"Pulse Systems, Inc",Pulse Complete EHR,4.2.08,Complete EHR,Ambulatory,2014
+1003009127,,EP,Puerto Rico,726,Internal Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,30000001T1FQEAS,CHP-007500,NeoDeck Holdings,NeoMed EHR,3,Complete EHR,Ambulatory,2011
+1003009218,,EP,Arkansas,72110,Family Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003009218,,EP,Arkansas,72110,Family Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001FUPJPEA5,CHP-019196,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003009218,,EP,Arkansas,72110,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2013,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003009218,,EP,Arkansas,72110,Family Medicine,,Medicare,2015,Stage 2,4,3,2016,,1,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003009705,,EP,Arizona,85013,Family Medicine,,Medicare,2013,Stage 1,2,12,2013,,0,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003009861,,EP,Texas,85306,Internal Medicine,,Medicare,2013,Stage 1,1,3,2014,,0,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003009861,,EP,Texas,85306,Internal Medicine,,Medicare,2014,Stage 1,2,1,2015,2013,0,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003010117,,EP,Oregon,97439,Internal Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,A000001CO2E3EAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003010117,,EP,Oregon,97439,Internal Medicine,,Medicare,2015,Stage 2,3,3,2016,,0,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003010117,,EP,Oregon,97439,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003010174,,EP,New York,11217,Internal Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003010174,,EP,New York,11217,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003010307,,EP,Florida,32003,Family Medicine,,Medicare,2012,Stage 1,1,12,2012,,1,30000001SVGHEAS,CHP-007427,Allscripts,Allscripts Enterprise E HR,11.2,Complete EHR,Ambulatory,2011
+1003010307,,EP,Florida,32003,Family Medicine,,Medicare,2014,Stage 2,3,1,2015,2014,1,1314E01PQUFUEAN,CHP-024854,"athenahealth, Inc.",athenaClinicals,14.12,Complete EHR,Ambulatory,2014
+1003010307,,EP,Florida,32003,Family Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01RBGYUEAT,CHP-028425,"athenahealth, Inc.",athenaClinicals,15.11,Complete EHR,Ambulatory,2014
+1003010307,,EP,Florida,32003,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATA1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Complete EHR,Ambulatory,2014
+1003010307,,EP,Florida,32003,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATI1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Modular EHR,Inpatient,2014
+1003010349,,EP,Michigan,32207,Family Medicine,,Medicare,2012,Stage 1,1,5,2012,,1,30000004QR1ZEAS,CHP-006453,Allscripts,Allscripts Professional EHR,9.2.2,Complete EHR,Ambulatory,2011
+1003010349,,EP,Michigan,32207,Family Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,30000004QR1ZEAS,CHP-006453,Allscripts,Allscripts Professional EHR,9.2.2,Complete EHR,Ambulatory,2011
+1003010349,,EP,Michigan,32207,Family Medicine,,Medicare,2014,Stage 1,3,1,2015,2014,1,1314E01OUSICEAV,CHP-023059,Allscripts,Allscripts Professional EHR,Version 14.0,Modular EHR,Ambulatory,2014
+1003010406,,EP,New York,10029,Family Medicine,,Medicare,2014,Stage 1,2,10,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003010406,,EP,New York,10029,Family Medicine,,Medicare,2015,Stage 1,3,3,2016,,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003010596,,EP,Missouri,65804,Otolaryngology,,Medicare,2013,Stage 1,1,2,2014,,0,A000001CO2E3EAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003010596,,EP,Missouri,65804,Otolaryngology,,Medicare,2014,Stage 1,2,2,2015,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003010703,,EP,Texas,75069,Otolaryngology,,Medicare,2011,Stage 1,1,1,2012,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003010703,,EP,Texas,75069,Otolaryngology,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003010893,,EP,Texas,75010,Urology,,Medicare,2012,Stage 1,1,1,2013,,1,30000001T0GAEAC,CHP-007485,Intuitive Medical Software,UroChartEHR,4,Complete EHR,Ambulatory,2011
+1003010919,,EP,Colorado,80910,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PUPLSEAF,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003010919,,EP,Colorado,80910,Orthopaedic Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PUPLSEAF,CHP-024743,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2010 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2014,Stage 1,1,12,2014,2014,0,1314E01PKSFVEA5,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2014,Stage 1,1,12,2014,2014,0,1314E01PKSFVEA5,CHP-022155,Medical Research Analytics and Informatics Alliance (MRAIA),Public Health Data Reporter,2.0.1,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2014,Stage 1,1,12,2014,2014,0,1314E01PKSFVEA5,CHP-023321,Cerner Corporation,Powerchart (Clinical),2012.01.28,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2014,Stage 1,1,12,2014,2014,0,1314E01PKSFVEA5,CHP-023324,Cerner Corporation,Powerchart (CQM),2012.01.28,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-027087,Cerner Corporation,Powerchart (Clinical),2015.01.04,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-027090,Cerner Corporation,Powerchart (CQM),2015.01.04,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-027092,Cerner Corporation,HealtheLife and Powerchart,2015.01.04,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-027921,Cerner Corporation,HealthSentry,2015.06,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-028063,Cerner Corporation,Powerchart (CQM),2015.01.07,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-028064,Cerner Corporation,Powerchart (Clinical),2015.01.07,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-028081,Cerner Corporation,HealtheLife and Powerchart,2015.01.07,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-028304,Cerner Corporation,HealthSentry,2015.08,Modular EHR,Ambulatory,2014
+1003010943,,EP,Illinois,60637,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RD6OYEAT,CHP-028312,Cerner Corporation,HealthSentry,2015.07,Modular EHR,Ambulatory,2014
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301GYQILEAJ,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301GYQILEAJ,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2014,Stage 2,4,12,2014,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003010950,,EP,California,92708,Internal Medicine,,Medicare,2015,Stage 2,5,1,2016,,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003011214,,EP,Maryland,21229,Internal Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,A0H1301DAR5QEAF,CHP-006625,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003011214,,EP,Maryland,21229,Internal Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,A0H1301DAR5QEAF,CHP-007381,Practice Fusion,Practice Fusion,2,Modular EHR,Ambulatory,2011
+1003011214,,EP,Maryland,21229,Internal Medicine,,Medicare,2014,Stage 1,2,1,2015,2014,0,1314E01PLWXGEAT,CHP-022482,Practice Fusion,Practice Fusion EHR,3.1,Complete EHR,Ambulatory,2014
+1003011214,,EP,Maryland,21229,Internal Medicine,,Medicare,2014,Stage 1,2,1,2015,2014,0,1314E01PLWXGEAT,CHP-024043,Practice Fusion,Practice Fusion EHR,3.2,Complete EHR,Ambulatory,2014
+1003011339,,EP,Florida,32504,Neurological Surgery,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003011339,,EP,Florida,32504,Neurological Surgery,,Medicare,2016,Stage 2,3,1,2017,,0,0014EYA21FA0PLP,14.07.07.2880.ATA1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Complete EHR,Ambulatory,2014
+1003011339,,EP,Florida,32504,Neurological Surgery,,Medicare,2016,Stage 2,3,1,2017,,0,0014EYA21FA0PLP,14.07.07.2880.ATI1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Modular EHR,Inpatient,2014
+1003011404,,EP,Kansas,66212,Dermatology,,Medicare,2012,Stage 1,1,1,2013,,1,A0H1301DAOZIEAF,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003011404,,EP,Kansas,66212,Dermatology,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003011404,,EP,Kansas,66212,Dermatology,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01IDZYBEAJ,CHP-019660,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003011529,,EP,Kansas,67846,Family Medicine,,Medicare,2012,Stage 1,1,10,2012,,1,30000004RUWQEAU,CHP-006510,eMDs,e-MDs Solution Series,7.2,Complete EHR,Ambulatory,2011
+1003011529,,EP,Kansas,67846,Family Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,13H1301PO8WTEAT,CHP-021324,eMDs,e-MDs Solution Series,8,Complete EHR,Ambulatory,2014
+1003011560,,EP,Iowa,50314,Obstetrics & Gynecology,,Medicare,2014,Stage 1,1,2,2015,2013,0,A000001COOITEAX,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003011578,,EP,North Carolina,28601,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,A0H1301DARILEA3,CHP-009496,"gMed, Inc.",gGastro,4.16.2,Complete EHR,Ambulatory,2011
+1003011578,,EP,North Carolina,28601,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301KIEIIEAF,CHP-019722,"gMed, Inc.",gGastro,4.51,Complete EHR,Ambulatory,2011
+1003011578,,EP,North Carolina,28601,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301KIEIIEAF,CHP-020651,"gMed, Inc.",gGastro,version 4.52,Complete EHR,Ambulatory,2014
+1003011578,,EP,North Carolina,28601,Internal Medicine,,Medicare,2014,Stage 1,3,3,2015,2014,1,1314E01PD5YFEAR,CHP-024488,"gMed, Inc.",gGastro,Version 4.55,Complete EHR,Ambulatory,2014
+1003011578,,EP,North Carolina,28601,Internal Medicine,,Medicare,2015,Stage 2,4,9,2016,,1,1314E01RAPUSEAH,CHP-028360,"gMed, Inc.",gMed Connect,Version 4.58,Complete EHR,Ambulatory,2014
+1003011610,,EP,Massachusetts,2114,Internal Medicine,,Medicare,2012,Stage 1,1,1,2013,,1,A000001DZDY9EAH,CHP-009230,Massachusetts General Hospital,Oncall,2012,Complete EHR,Ambulatory,2011
+1003011610,,EP,Massachusetts,2114,Internal Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,A000001DZDY9EAH,CHP-009230,Massachusetts General Hospital,Oncall,2012,Complete EHR,Ambulatory,2011
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2011,Stage 1,1,6,2011,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301DAUIZEAV,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2014,Stage 2,4,5,2015,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01PO8DZEAT,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003011800,,EP,Illinois,60077,Internal Medicine,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01PO8DZEAT,CHP-022155,Medical Research Analytics and Informatics Alliance (MRAIA),Public Health Data Reporter,2.0.1,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2013,Stage 1,1,5,2013,,0,30000004UNFAEAQ,CHP-006920,Cerner Corporation,Powerchart and Cerner Healthe,2010.02.03,Modular EHR,Ambulatory,2011
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2013,Stage 1,1,5,2013,,0,30000004UNFAEAQ,CHP-007665,UAB Health System,MyHealth@UABMedicine,6.1,Modular EHR,Ambulatory,2011
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2013,Stage 1,1,5,2013,,0,30000004UNFAEAQ,CHP-008159,Cerner Corporation,Health Sentry,2011.07,Modular EHR,Ambulatory,2011
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-019088,"FairWarning® Technologies, Inc.",FairWarning® Patient Privacy Monitoring,3.1,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-021939,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.24,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-021945,Cerner Corporation,Powerchart (Clinical),2012.01.24,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-021960,Cerner Corporation,Powerchart (CQM),2012.01.24,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-023995,Cerner Corporation,HealthSentry,2014.07,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-024151,Cerner Corporation,Powerchart (Clinical),2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-024161,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PSXFJEAN,CHP-024711,Cerner Corporation,Powerchart (CQM),2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-019088,"FairWarning® Technologies, Inc.",FairWarning® Patient Privacy Monitoring,3.1,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-024151,Cerner Corporation,Powerchart (Clinical),2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-024159,Cerner Corporation,Powerchart (CQM),2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-024161,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.33,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003011859,,EP,Alabama,35294,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RMRJLEAL,CHP-028978,Cerner Corporation,HealthSentry,2015.11,Modular EHR,Ambulatory,2014
+1003011891,,EP,New Jersey,7109,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,A014E01KI90NEAR,CHP-021314,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,v9,Complete EHR,Ambulatory,2014
+1003011891,,EP,New Jersey,7109,Internal Medicine,,Medicare,2016,Stage 1,,1,2017,,0,A014E01KI90NEAR,CHP-021314,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,v9,Complete EHR,Ambulatory,2014
+1003011917,,EP,Washington,98405,Thoracic Surgery (Cardiothoracic Vascular Surgery),,Medicare,2014,Stage 1,1,2,2015,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003011917,,EP,Washington,98405,Thoracic Surgery (Cardiothoracic Vascular Surgery),,Medicare,2015,Stage 1,2,2,2016,,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003011966,,EP,Iowa,60634,Anesthesiology,,Medicare,2014,Stage 1,1,11,2014,2014,0,1314E01PD02DEAR,CHP-023935,Shareable Ink,Shareable Ink,2,Modular EHR,Ambulatory,2014
+1003011966,,EP,Iowa,60634,Anesthesiology,,Medicare,2014,Stage 1,1,11,2014,2014,0,1314E01PD02DEAR,CHP-024043,Practice Fusion,Practice Fusion EHR,3.2,Complete EHR,Ambulatory,2014
+1003012022,,EP,Tennessee,37919,Internal Medicine,,Medicare,2014,Stage 1,1,1,2015,2014,0,A014E01O2MPXEAJ,CHP-022209,Allscripts,Allscripts Enterprise EHR,11.4.1 (CQM Phase 4),Complete EHR,Ambulatory,2014
+1003012022,,EP,Tennessee,37919,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,A014E01O2MPXEAJ,CHP-022209,Allscripts,Allscripts Enterprise EHR,11.4.1 (CQM Phase 4),Complete EHR,Ambulatory,2014
+1003012113,,EP,Wisconsin,54024,Urology,,Medicare,2012,Stage 1,1,5,2012,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003012113,,EP,Wisconsin,54024,Urology,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003012113,,EP,Wisconsin,54024,Urology,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003012113,,EP,Wisconsin,54024,Urology,,Medicare,2015,Stage 2,4,5,2016,,1,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003012204,,EP,Idaho,83201,Family Medicine,,Medicare,2011,Stage 1,1,2,2012,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2011,Stage 1,1,1,2012,,1,30000001SWAZEA0,CHP-007349,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Spring 2008,Complete EHR,Ambulatory,2011
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SWAZEA0,CHP-007349,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Spring 2008,Complete EHR,Ambulatory,2011
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2013,Stage 1,3,1,2014,,1,30000001SWAZEA0,CHP-007349,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Spring 2008,Complete EHR,Ambulatory,2011
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2014,Stage 2,4,10,2014,2014,1,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,15.07.07.1447.EP03.02.1.1.161209,Epic Systems Corporation,EpicCare Ambulatory EHR Suite,Epic 2015,Complete,Inpatient,2015
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,15.07.07.1447.EP04.02.1.1.161209,Epic Systems Corporation,EpicCare Inpatient EHR Suite,Epic 2015,Complete,Inpatient,2015
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,15.07.07.1447.SY01.02.1.1.161014,Epic Systems Corporation,Syndromic Surveillance Reporting,Epic 2015,Complete,Inpatient,2015
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,CHP-027136,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2015,Modular EHR,Inpatient,2014
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,CHP-027708,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2015,Modular EHR,Ambulatory,2014
+1003012428,,EP,Kentucky,41030,Family Medicine,,Medicare,2016,Stage 2,,1,2017,,1,0015H0S6LMB5DYY,CHP-027903,Epic Systems Corporation,Outgoing Public Health Reporting from EpicCare Functionality,Epic 2015,Modular EHR,Inpatient,2014
+1003012477,,EP,Nebraska,75246,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000004TQGMEAQ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003012477,,EP,Nebraska,75246,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,30000004TQGMEAQ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003012477,,EP,Nebraska,75246,Internal Medicine,,Medicare,2015,Stage 2,4,5,2016,,1,A014E01NC34GEAD,CHP-022025,GE Healthcare,Centricity EMR,9.8,Complete EHR,Ambulatory,2014
+1003012493,,EP,New Mexico,87131,Orthopaedic Surgery,,Medicare,2013,Stage 1,1,3,2014,,0,30000001SWAZEA0,CHP-007349,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Spring 2008,Complete EHR,Ambulatory,2011
+1003012493,,EP,New Mexico,87131,Orthopaedic Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,A014E01EPAKJEA3,CHP-018655,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010,Complete EHR,Ambulatory,2014
+1003012642,,EP,Pennsylvania,18017,Otolaryngology,,Medicare,2012,Stage 1,1,12,2012,,1,30000005PDRIEA2,CHP-007215,Allscripts,Allscripts MyWay EHR,v10.1,Complete EHR,Ambulatory,2011
+1003012642,,EP,Pennsylvania,18017,Otolaryngology,,Medicare,2013,Stage 1,2,1,2014,,1,30000005PDRIEA2,CHP-007215,Allscripts,Allscripts MyWay EHR,v10.1,Complete EHR,Ambulatory,2011
+1003012642,,EP,Florida,18017,Otolaryngology,,Medicare,2016,Stage 2,5,1,2017,,1,0014EWR4DR4GCQ6,14.07.07.2880.ATA1.08.1.1.161123,"athenahealth, Inc.",athenaClinicals,16.11,Complete EHR,Ambulatory,2014
+1003012907,,EP,Ohio,43215,Family Medicine,,Medicare,2013,Stage 1,1,1,2014,,0,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003012915,,EP,Georgia,31901,Psychiatry & Neurology,,Medicare,2013,Stage 1,1,10,2013,,0,30000002HV8LEAU,CHP-007681,Allscripts,Allscripts Enterprise EHR,11.2,Complete EHR,Ambulatory,2011
+1003012915,,EP,Georgia,31901,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,1,2015,2013,0,30000002HV8LEAU,CHP-007681,Allscripts,Allscripts Enterprise EHR,11.2,Complete EHR,Ambulatory,2011
+1003013210,,EP,Virginia,22908,Internal Medicine,,Medicare,2013,Stage 1,1,10,2013,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003013210,,EP,Virginia,22908,Internal Medicine,,Medicare,2014,Stage 1,2,5,2015,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003013210,,EP,Virginia,22908,Internal Medicine,,Medicare,2015,Stage 2,3,5,2016,,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003013343,,EP,Texas,76508,Family Medicine,,Medicare,2016,Stage 1,,1,2017,,,0014EXR5WTF8QEW,CHP-027136,Epic Systems Corporation,OpTime Surgical 2014 Certified Module,Epic 2015,Modular EHR,Inpatient,2014
+1003013343,,EP,Texas,76508,Family Medicine,,Medicare,2016,Stage 1,,1,2017,,,0014EXR5WTF8QEW,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003013343,,EP,Texas,76508,Family Medicine,,Medicare,2016,Stage 1,,1,2017,,,0014EXR5WTF8QEW,CHP-027901,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2015,Modular EHR,Inpatient,2014
+1003013384,,EP,Arkansas,72205,Dermatology,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01NCTTGEA5,CHP-022055,"MicroFour, Inc.",PracticeStudio,X16,Complete EHR,Ambulatory,2014
+1003013384,,EP,Arkansas,72205,Dermatology,,Medicare,2015,Stage 1,2,9,2016,,0,A014E01NCTTGEA5,CHP-022055,"MicroFour, Inc.",PracticeStudio,X16,Complete EHR,Ambulatory,2014
+1003013384,,EP,Arkansas,72205,Dermatology,,Medicare,2016,Stage 2,3,2,2017,,0,A014E01NCTTGEA5,CHP-022055,"MicroFour, Inc.",PracticeStudio,X16,Complete EHR,Ambulatory,2014
+1003013392,,EP,Michigan,49503,Urology,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003013392,,EP,Michigan,49503,Urology,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003013483,,EP,Pennsylvania,18103,Internal Medicine,,Medicare,2013,Stage 1,1,1,2014,,0,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003013483,,EP,Pennsylvania,18103,Internal Medicine,,Medicare,2014,Stage 1,2,10,2015,2013,0,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003013483,,EP,Pennsylvania,18103,Internal Medicine,,Medicare,2015,Stage 2,3,2,2016,,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003013483,,EP,Pennsylvania,18103,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,0015E7NMJ9HUD0U,15.07.07.1447.EP03.02.1.1.161209,Epic Systems Corporation,EpicCare Ambulatory EHR Suite,Epic 2015,Modular,Inpatient,2015
+1003013582,,EP,West Virginia,26501,Family Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003013582,,EP,West Virginia,26501,Family Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,A0H1301DAUIZEAV,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003013582,,EP,West Virginia,26501,Family Medicine,,Medicare,2014,Stage 2,3,5,2015,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003013582,,EP,West Virginia,26501,Family Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003013582,,EP,West Virginia,26501,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003013616,,EP,South Carolina,29615,Psychiatry & Neurology,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003013616,,EP,South Carolina,29615,Psychiatry & Neurology,,Medicare,2016,Stage 1,,1,2017,,0,1314E01QPVPIEAN,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003013632,,EP,South Carolina,29204,Podiatrist,,Medicare,2013,Stage 1,1,3,2014,,0,A000001FT0BPEAD,CHP-019080,Practice Fusion,Practice Fusion,2,Complete EHR,Ambulatory,2011
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2013,Stage 1,1,8,2013,,0,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2014,Stage 1,2,2,2015,2013,0,13H1301PTCJXEAN,CHP-018548,NextGen Healthcare,NextGen Ambulatory EHR,5.8,Complete EHR,Ambulatory,2011
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2014,Stage 1,2,2,2015,2013,0,13H1301PTCJXEAN,CHP-021304,"MedSeek, Inc.",MEDSEEK Empower,5.1,Modular EHR,Ambulatory,2014
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2014,Stage 1,2,2,2015,2013,0,13H1301PTCJXEAN,CHP-022660,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2015,Stage 2,3,3,2016,,0,1314E01RO421EAD,CHP-022952,"MedSeek, Inc.",MEDSEEK Empower,5.1,Modular EHR,Ambulatory,2014
+1003013673,,EP,Indiana,47374,Internal Medicine,,Medicare,2015,Stage 2,3,3,2016,,0,1314E01RO421EAD,CHP-027128,NextGen Healthcare,NextGen Ambulatory EHR,5.8.2,Complete EHR,Ambulatory,2014
+1003013723,,EP,Oklahoma,73071,Internal Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01PI059EAD,CHP-023394,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003013756,,EP,North Carolina,28645,Family Medicine,,Medicare,2012,Stage 1,1,1,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003013756,,EP,North Carolina,28645,Family Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O2VOAEAF,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003013756,,EP,North Carolina,28645,Family Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O2VOAEAF,CHP-022053,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003013756,,EP,North Carolina,28645,Family Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003013848,,EP,Florida,26506,Radiology,,Medicare,2013,Stage 1,1,1,2014,,0,30000005C9AYEAA,CHP-007283,"DR Systems, Inc.",eHR Meaningful Use for Medical Imaging,1,Complete EHR,Ambulatory,2011
+1003013848,,EP,Florida,26506,Radiology,,Medicare,2014,Stage 1,2,11,2014,2014,0,A014E01O2TVBEAF,CHP-022027,"DR Systems, Inc.",eHR Meaningful Use,2,Complete EHR,Ambulatory,2014
+1003013848,,EP,Florida,26506,Radiology,,Medicare,2015,Stage 2,3,3,2016,,0,A014E01O2TVBEAF,CHP-022027,"DR Systems, Inc.",eHR Meaningful Use,2,Complete EHR,Ambulatory,2014
+1003013947,,EP,Missouri,63128,Orthopaedic Surgery,,Medicare,2015,Stage 1,,1,2016,,0,1314E01RM5SNEAD,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003013947,,EP,Missouri,63128,Orthopaedic Surgery,,Medicare,2015,Stage 1,,1,2016,,0,1314E01RM5SNEAD,CHP-023632,Signature Medical Group,QServer,1,Modular EHR,Ambulatory,2014
+1003013970,,EP,South Carolina,29646,Ophthalmology,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SWCMEAS,CHP-007453,"Medflow Holdings, LLC",Medflow E HR,7.6,Complete EHR,Ambulatory,2011
+1003013970,,EP,South Carolina,29646,Ophthalmology,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SWCMEAS,CHP-007453,"Medflow Holdings, LLC",Medflow E HR,7.6,Complete EHR,Ambulatory,2011
+1003013970,,EP,South Carolina,29646,Ophthalmology,,Medicare,2013,Stage 1,3,2,2014,,1,30000001SWCMEAS,CHP-007453,"Medflow Holdings, LLC",Medflow E HR,7.6,Complete EHR,Ambulatory,2011
+1003013970,,EP,South Carolina,29646,Ophthalmology,,Medicare,2015,Stage 2,5,5,2016,,1,A014E01IGGJKEAZ,CHP-019854,"Medflow Holdings, LLC",Medflow EHR,version 8.1,Complete EHR,Ambulatory,2014
+1003014077,,EP,Oklahoma,74403,Podiatrist,,Medicare,2015,Stage 1,,3,2016,,0,1314E01PJHPUEAL,CHP-023620,Indian Health Service,Resource and Patient Management System Electronic Health Record,RPMS Suite (BCER) v2.0,Complete EHR,Ambulatory,2014
+1003014457,,EP,Illinois,60190,Psychiatry & Neurology,,Medicare,2013,Stage 1,3,1,2014,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003014457,,EP,Illinois,60190,Psychiatry & Neurology,,Medicare,2015,Stage 2,5,1,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025385,Cerner Corporation,Powerchart (CQM),2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025386,Cerner Corporation,FirstNet (Clinical),2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025387,Cerner Corporation,HealtheLife and FirstNet,2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025396,Cerner Corporation,Powerchart (Clinical),2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025399,Cerner Corporation,HealtheLife and Powerchart,2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-025402,Cerner Corporation,FirstNet (CQM),2015.01.02,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028299,Cerner Corporation,Powerchart (Clinical),2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028301,Cerner Corporation,HealtheLife and Powerchart,2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028304,Cerner Corporation,HealthSentry,2015.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028315,Cerner Corporation,Powerchart (CQM),2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028319,Cerner Corporation,FirstNet (Clinical),2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028320,Cerner Corporation,HealtheLife and FirstNet,2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028324,Cerner Corporation,FirstNet (CQM),2015.01.08,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028435,Cerner Corporation,HealthSentry,2015.09,Modular EHR,Ambulatory,2014
+1003014705,,EP,Missouri,65212,Internal Medicine,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RMO23EAD,CHP-028978,Cerner Corporation,HealthSentry,2015.11,Modular EHR,Ambulatory,2014
+1003014762,,EP,Alabama,35976,Dermatology,,Medicare,2012,Stage 1,1,7,2012,,1,30000005YGFYEAO,CHP-007964,Allscripts,Allscripts Professional EHR,9.3,Complete EHR,Ambulatory,2011
+1003014762,,EP,Alabama,35976,Dermatology,,Medicare,2013,Stage 1,2,1,2014,,1,A0H1301DAPVLEA3,CHP-007964,Allscripts,Allscripts Professional EHR,9.3,Complete EHR,Ambulatory,2011
+1003014762,,EP,Alabama,35976,Dermatology,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PISGZEA5,CHP-023382,Allscripts,Allscripts Professional EHR,Version 13.0 CQM Phase 4,Complete EHR,Ambulatory,2014
+1003014788,,EP,New York,15217,Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PSAZVEA3,CHP-024766,Allscripts,Allscripts TouchWorks EHR (Complete),11.5,Complete EHR,Ambulatory,2014
+1003014911,,EP,Minnesota,55109,Internal Medicine,,Medicare,2016,Stage 1,,9,2016,,,1314E01RCONPEAX,CHP-027708,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2015,Modular EHR,Ambulatory,2014
+1003014911,,EP,Minnesota,55109,Internal Medicine,,Medicare,2016,Stage 1,,9,2016,,,1314E01RCONPEAX,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003015173,,EP,New Hampshire,3301,Dermatology,,Medicare,2014,Stage 1,3,2,2015,2014,0,A014E01NC34GEAD,CHP-022025,GE Healthcare,Centricity EMR,9.8,Complete EHR,Ambulatory,2014
+1003015173,,EP,New Hampshire,3301,Dermatology,,Medicare,2015,Stage 1,4,1,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003015314,,EP,Minnesota,56320,Family Medicine,,Medicare,2011,Stage 1,1,9,2011,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003015314,,EP,Minnesota,56320,Family Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003015314,,EP,Minnesota,56320,Family Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301DAPF6EAN,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003015314,,EP,Minnesota,56320,Family Medicine,,Medicare,2014,Stage 1,4,2,2015,2013,1,A000001COOITEAX,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003015314,,EP,Minnesota,56320,Family Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01QFMOLEAL,CHP-025493,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003015421,,EP,Texas,78550,Surgery,,Medicare,2013,Stage 1,1,4,2013,,0,30000001U4XQEAK,CHP-007715,GE Healthcare,Centricity Practice Solution,10,Complete EHR,Ambulatory,2011
+1003015421,,EP,Texas,78550,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RBGYUEAT,CHP-028425,"athenahealth, Inc.",athenaClinicals,15.11,Complete EHR,Ambulatory,2014
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2012,Stage 1,1,9,2012,,1,30000002HV8LEAU,CHP-007681,Allscripts,Allscripts Enterprise EHR,11.2,Complete EHR,Ambulatory,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001NBISZEAD,CHP-007208,NewYork-Presbyterian Hospital,"NYP Quality Analytics, Ambulatory",1,Modular EHR,Ambulatory,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001NBISZEAD,CHP-007681,Allscripts,Allscripts Enterprise EHR,11.2,Complete EHR,Ambulatory,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001NBISZEAD,CHP-007763,Microsoft Corporation,Microsoft Amalga UIS 2009,Release 2 Service Pack 3,Modular EHR,Ambulatory,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001NBISZEAD,CHP-007843,Cerner Corporation,Health Sentry,2011.1,Modular EHR,Inpatient,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,A000001NBISZEAD,CHP-007987,Allscripts,Sunrise Ambulatory Care Module Set,5.5,Modular EHR,Ambulatory,2011
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01Q9Y8OEAR,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003015439,,EP,New York,10032,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01Q9Y8OEAR,CHP-024766,Allscripts,Allscripts TouchWorks EHR (Complete),11.5,Complete EHR,Ambulatory,2014
+1003015785,,EP,Texas,77002,Ophthalmology,,Medicare,2012,Stage 1,1,8,2012,,1,30000004OBCHEAU,CHP-006933,OEMR,OpenEMR,4.1,Complete EHR,Ambulatory,2011
+1003015918,,EP,Arizona,85032,Surgery,,Medicare,2014,Stage 1,1,1,2015,2014,0,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003015918,,EP,Arizona,85032,Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2013,Stage 1,1,2,2014,,0,A0H1301GXZKXEAN,CHP-019282,Cerner Corporation,"Powerchart, Cerner Healthe, Cerner Patient Portal, HealthSentry, and P2 Sentinel",2012.01.16 and P2 Sentinel v. 4.5.2,Complete EHR,Ambulatory,2011
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021714,Cerner Corporation,Powerchart (Clinical),2012.01.25,Modular EHR,Inpatient,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021715,Cerner Corporation,Powerchart (Image Results),2012.01.25,Modular EHR,Inpatient,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021718,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.25,Modular EHR,Inpatient,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021720,Cerner Corporation,Powerchart (eRX),2012.01.25,Modular EHR,Inpatient,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021925,Cerner Corporation,Powerchart (Image Results),2012.01.25,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021931,Cerner Corporation,PowerChart (All CQMs),2012.01.25,Modular EHR,Inpatient,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021947,Cerner Corporation,Powerchart (Clinical),2012.01.25,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PG6QPEAD,CHP-021958,Cerner Corporation,Powerchart (CQM),2012.01.25,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-025427,Cerner Corporation,Powerchart (CQM),2015.01.03,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-025429,Cerner Corporation,Powerchart (Clinical),2015.01.03,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-025463,Cerner Corporation,HealtheLife and Powerchart,2015.01.03,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-025469,Cerner Corporation,PathNet,2015.01.03,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RAQ31EAH,CHP-028306,Cerner Corporation,Powerchart Touch,3.6,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2016,Stage 2,4,1,2017,,0,0014EEC2FSK4MMD,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2016,Stage 2,4,1,2017,,0,0014EEC2FSK4MMD,CHP-028457,Cerner Corporation,Powerchart (Clinical),2015.01.09,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2016,Stage 2,4,1,2017,,0,0014EEC2FSK4MMD,CHP-028459,Cerner Corporation,Powerchart (Image Results),2015.01.09,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2016,Stage 2,4,1,2017,,0,0014EEC2FSK4MMD,CHP-028467,Cerner Corporation,Powerchart (CQM),2015.01.09,Modular EHR,Ambulatory,2014
+1003015967,,EP,Texas,79410,Neurological Surgery,,Medicare,2016,Stage 2,4,1,2017,,0,0014EEC2FSK4MMD,CHP-028468,Cerner Corporation,HealtheLife and Powerchart,2015.01.09,Modular EHR,Ambulatory,2014
+1003016205,,EP,Ohio,44484,Plastic Surgery,,Medicare,2013,Stage 1,1,7,2013,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003016205,,EP,Ohio,44484,Plastic Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,A014E01NCQEJEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003016205,,EP,Ohio,44484,Plastic Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,A014E01NCQEJEA5,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003016205,,EP,Ohio,44484,Plastic Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003016205,,EP,Ohio,44484,Plastic Surgery,,Medicare,2016,Stage 2,4,2,2017,,0,1314E01QPVPIEAN,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2011,Stage 1,1,2,2012,,1,30000005GVYPEA4,CHP-008228,Allscripts,Allscripts Enterprise EHR (Modular),11.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2011,Stage 1,1,2,2012,,1,30000005GVYPEA4,CHP-008229,Jardogs,Follow My Health,1.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000005GVYPEA4,CHP-008228,Allscripts,Allscripts Enterprise EHR (Modular),11.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000005GVYPEA4,CHP-008229,Jardogs,Follow My Health,1.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2013,Stage 1,3,1,2014,,1,30000005GVYPEA4,CHP-008228,Allscripts,Allscripts Enterprise EHR (Modular),11.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2013,Stage 1,3,1,2014,,1,30000005GVYPEA4,CHP-008229,Jardogs,Follow My Health,1.2,Modular EHR,Ambulatory,2011
+1003016270,,EP,Connecticut,6010,Family Medicine,,Medicare,2015,Stage 2,5,3,2016,,1,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003016361,,EP,Kansas,66762,Optometrist,,Medicare,2012,Stage 1,1,1,2013,,1,3000000WHSY1EAK,CHP-008579,"Eyefinity, Inc.",OfficeMate/ExamWRITER,10.6,Complete EHR,Ambulatory,2011
+1003016361,,EP,Kansas,66762,Optometrist,,Medicare,2013,Stage 1,2,1,2014,,1,3000000WHSY1EAK,CHP-008579,"Eyefinity, Inc.",OfficeMate/ExamWRITER,10.6,Complete EHR,Ambulatory,2011
+1003016361,,EP,Kansas,66762,Optometrist,,Medicare,2014,Stage 1,3,1,2015,2014,1,A014E01O2M1VEAR,CHP-022183,"Eyefinity, Inc.",OfficeMate/ExamWRITER,11.1,Complete EHR,Ambulatory,2014
+1003016718,,EP,Texas,76234,Orthopaedic Surgery,,Medicare,2012,Stage 1,1,5,2012,,1,30000011A9BMEAI,CHP-008601,"athenahealth, Inc.",athenaClinicals,12.5,Complete EHR,Ambulatory,2011
+1003016718,,EP,Texas,76234,Orthopaedic Surgery,,Medicare,2013,Stage 1,2,3,2014,,1,A0H1301KHQTXEAV,CHP-021495,"athenahealth, Inc.",athenaClinicals,13.12,Complete EHR,Ambulatory,2011
+1003016718,,EP,Texas,76234,Orthopaedic Surgery,,Medicare,2014,Stage 2,3,1,2015,2014,1,1314E01PQUFUEAN,CHP-024854,"athenahealth, Inc.",athenaClinicals,14.12,Complete EHR,Ambulatory,2014
+1003016957,,EP,North Carolina,28304,Internal Medicine,,Medicare,2015,Stage 1,,1,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003017112,,EP,Florida,33137,Internal Medicine,,Medicare,2014,Stage 1,1,1,2015,2014,0,13H1301PO90FEAD,CHP-023360,"Aprima Medical Software, Inc.",Aprima PRM 2014,14.0.1,Complete EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-021868,Cerner Corporation,PathNet,2012.01.22,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-021924,Cerner Corporation,Powerchart (Image Results),2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-021940,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-021946,Cerner Corporation,Powerchart (Clinical),2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-024023,Cerner Corporation,HealthSentry,2014.08,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-024460,Cerner Corporation,HealthSentry,2014.09,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-024715,Cerner Corporation,Powerchart (CQM),2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-024968,Cerner Corporation,HealthSentry,2014.1,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,1314E01PTKCBEAN,CHP-024990,Cerner Corporation,HealthSentry,2014.11,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-021866,Cerner Corporation,Cerner Patient Portal and FirstNet,2012.01.22,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-021869,Cerner Corporation,FirstNet (Clinical),2012.01.22,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-021940,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-021946,Cerner Corporation,Powerchart (Clinical),2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-021957,Cerner Corporation,FirstNet (CQM),2012.01.22,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-023329,Cerner Corporation,Powerchart (CQM),2012.01.23,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024152,Cerner Corporation,FirstNet (Clinical),2012.01.33,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024155,Cerner Corporation,FirstNet (CQM),2012.01.33,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024175,Cerner Corporation,Cerner Patient Portal and FirstNet,2012.01.33,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024944,Cerner Corporation,Powerchart (Clinical),2012.01.35,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024947,Cerner Corporation,HealtheLife and Powerchart,2012.01.35,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024953,Cerner Corporation,Powerchart (CQM),2012.01.35,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-024990,Cerner Corporation,HealthSentry,2014.11,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-025182,Cerner Corporation,HealthSentry,2014.12,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-025271,Cerner Corporation,HealthSentry,2015.01,Modular EHR,Ambulatory,2014
+1003017286,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMUHWEA1,CHP-025369,Cerner Corporation,HealthSentry,2015.02,Modular EHR,Ambulatory,2014
+1003017468,,EP,Georgia,30909,Ophthalmology,,Medicare,2014,Stage 1,1,2,2015,2013,0,A000001EOLM6EAN,CHP-018548,NextGen Healthcare,NextGen Ambulatory EHR,5.8,Complete EHR,Ambulatory,2011
+1003017468,,EP,Georgia,30909,Ophthalmology,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01QOS1WEAH,CHP-027128,NextGen Healthcare,NextGen Ambulatory EHR,5.8.2,Complete EHR,Ambulatory,2014
+1003017484,,EP,Louisiana,70112,Family Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,30000004TQGMEAQ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003017484,,EP,Louisiana,70112,Family Medicine,,Medicare,2014,Stage 1,2,12,2014,2014,0,1314E01P3WWIEAB,CHP-022205,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003017484,,EP,Louisiana,70112,Family Medicine,,Medicare,2014,Stage 1,2,12,2014,2014,0,1314E01P3WWIEAB,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003017526,,EP,Georgia,30214,Obstetrics & Gynecology,,Medicare,2014,Stage 1,1,3,2015,2013,0,A000001COOITEAX,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003017526,,EP,Georgia,30214,Obstetrics & Gynecology,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01QOOYCEAH,CHP-023136,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2014
+1003017526,,EP,Georgia,30214,Obstetrics & Gynecology,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01QOOYCEAH,CHP-025492,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2013,Stage 1,1,2,2014,,0,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2014,Stage 1,2,11,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RCOBZEAP,CHP-018655,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010,Complete EHR,Ambulatory,2014
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RCOBZEAP,CHP-021122,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014,Modular EHR,Inpatient,2014
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,0014E7K37SX9XW0,CHP-021120,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite (with Beaker),Epic 2014,Complete EHR,Inpatient,2014
+1003017666,,EP,Utah,84132,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,0014E7K37SX9XW0,CHP-024717,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2012 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003017682,,EP,Virginia,20176,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,1,2015,2014,0,1314E01PH5Q1EAD,CHP-023172,"Pulse Systems, Inc",Pulse Complete EHR,4.2.08,Complete EHR,Ambulatory,2014
+1003017682,,EP,Virginia,20176,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01PH5Q1EAD,CHP-023172,"Pulse Systems, Inc",Pulse Complete EHR,4.2.08,Complete EHR,Ambulatory,2014
+1003017906,,EP,California,92056,Family Medicine,,Medicare,2012,Stage 1,1,8,2012,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003017906,,EP,California,92056,Family Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003017906,,EP,California,92056,Family Medicine,,Medicare,2014,Stage 1,3,3,2015,2013,1,A000001EOLM6EAN,CHP-018548,NextGen Healthcare,NextGen Ambulatory EHR,5.8,Complete EHR,Ambulatory,2011
+1003017963,,EP,Tennessee,37916,Internal Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003017971,,EP,California,95816,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,11,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003017971,,EP,California,95816,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RCQYIEAX,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003017971,,EP,California,95816,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RCQYIEAX,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003017971,,EP,California,95816,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,1,2016,,0,1314E01RCQYIEAX,CHP-025226,"Sunquest Information Systems, Inc.",Sunquest Laboratory,7,Modular EHR,Inpatient,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2013,Stage 1,1,3,2014,,0,A0H1301ENKG8EAF,CHP-007345,Epic Systems Corporation,EpicCare Inpatient - Core EMR,2010,Complete EHR,Inpatient,2011
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2013,Stage 1,1,3,2014,,0,A0H1301ENKG8EAF,CHP-009352,Epic Systems Corporation,EpicCare Inpatient - Core EMR,Epic 2012,Complete EHR,Inpatient,2011
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2014,Stage 1,2,11,2014,2014,0,A014E01IF4YJEAB,CHP-019740,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012,Modular EHR,Inpatient,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RD73QEAD,CHP-022052,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RD73QEAD,CHP-022053,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RD73QEAD,CHP-024717,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2012 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RD73QEAD,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2016,Stage 2,4,1,2017,,0,A014E01NDCJNEA1,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003017989,,EP,Ohio,45219,Anesthesiology,,Medicare,2016,Stage 2,4,1,2017,,0,A014E01NDCJNEA1,CHP-022052,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2014 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003018086,,EP,Texas,78526,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKCNLEAT,CHP-023869,"athenahealth, Inc.",athenaClinicals,14.9,Complete EHR,Ambulatory,2014
+1003018086,,EP,Texas,78526,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,2,2016,,0,1314E01RBGYUEAT,CHP-028425,"athenahealth, Inc.",athenaClinicals,15.11,Complete EHR,Ambulatory,2014
+1003018086,,EP,Texas,78526,Orthopaedic Surgery,,Medicare,2016,Stage 2,3,1,2017,,0,0014EWR4DR4GCQ6,14.07.07.2880.ATA1.08.1.1.161123,"athenahealth, Inc.",athenaClinicals,16.11,Complete EHR,Ambulatory,2014
+1003018102,,EP,New York,14221,Ophthalmology,,Medicare,2012,Stage 1,1,7,2012,,1,30000001SW7XEAS,CHP-007428,GE Healthcare,Centricity Practice Solution,9.5,Complete EHR,Ambulatory,2011
+1003018102,,EP,New York,14221,Ophthalmology,,Medicare,2013,Stage 1,2,2,2014,,1,A000001CJJJ6EAN,CHP-009436,GE Healthcare,Centricity Practice Solution,11,Complete EHR,Ambulatory,2011
+1003018102,,EP,New York,14221,Ophthalmology,,Medicare,2014,Stage 1,3,1,2015,2013,1,A000001CJJJ6EAN,CHP-009436,GE Healthcare,Centricity Practice Solution,11,Complete EHR,Ambulatory,2011
+1003018102,,EP,New York,14221,Ophthalmology,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01QNXTDEAT,CHP-025529,NexTech Systems Inc.,NexTech with NexErx,11.6,Complete EHR,Ambulatory,2014
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2012,Stage 1,1,10,2012,,1,30000005ZJXNEAO,CHP-006588,Jardogs,FollowMyHealth,1.3,Modular EHR,Ambulatory,2011
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2012,Stage 1,1,10,2012,,1,30000005ZJXNEAO,CHP-008228,Allscripts,Allscripts Enterprise EHR (Modular),11.2,Modular EHR,Ambulatory,2011
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,30000005ZJXNEAO,CHP-006588,Jardogs,FollowMyHealth,1.3,Modular EHR,Ambulatory,2011
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2013,Stage 1,2,2,2014,,1,30000005ZJXNEAO,CHP-008228,Allscripts,Allscripts Enterprise EHR (Modular),11.2,Modular EHR,Ambulatory,2011
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2014,Stage 1,3,1,2015,2014,1,A014E01O4KY5EAJ,CHP-022208,Allscripts,Allscripts Enterprise EHR,11.4.1 (CQM Phase 4),Complete EHR,Ambulatory,2014
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2015,Stage 2,4,1,2016,,1,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003018243,,EP,Iowa,50266,Obstetrics & Gynecology,,Medicare,2016,Stage 2,5,1,2017,,1,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003018250,,EP,Iowa,46202,Thoracic Surgery (Cardiothoracic Vascular Surgery),,Medicare,2011,Stage 1,1,1,2012,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003019019,,EP,Missouri,63031,Ophthalmology,,Medicare,2013,Stage 1,1,3,2014,,0,30000005PGOUEAM,CHP-007149,"MDIntelleSys, LLC",IntelleChart,Version 6.3,Complete EHR,Ambulatory,2011
+1003019019,,EP,Missouri,63031,Ophthalmology,,Medicare,2014,Stage 1,2,3,2015,2013,0,A0H1301DAYUBEAZ,CHP-009477,"MDIntelleSys, LLC",IntelleChart,Version 6.4,Complete EHR,Ambulatory,2011
+1003019092,,EP,Texas,2114,Ophthalmology,,Medicare,2012,Stage 1,1,11,2012,,1,30000011CLYXEAI,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003019092,,EP,Texas,2114,Ophthalmology,,Medicare,2012,Stage 1,1,11,2012,,1,30000011CLYXEAI,CHP-008718,NextGen Healthcare,NextGen Ambulatory EHR,5.7,Complete EHR,Ambulatory,2011
+1003019092,,EP,Texas,2114,Ophthalmology,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01QOS1WEAH,CHP-027128,NextGen Healthcare,NextGen Ambulatory EHR,5.8.2,Complete EHR,Ambulatory,2014
+1003019209,,EP,Illinois,61637,Psychiatry & Neurology,,Medicare,2013,Stage 1,1,3,2014,,0,A0H1301DAQVXEAF,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003019209,,EP,Illinois,61637,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,9,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019217,,EP,Texas,75390,Obstetrics & Gynecology,,Medicare,2014,Stage 1,1,10,2015,2014,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019217,,EP,Texas,75390,Obstetrics & Gynecology,,Medicare,2015,Stage 1,,2,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003019340,,EP,Oregon,97223,Internal Medicine,,Medicare,2012,Stage 1,1,11,2012,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003019340,,EP,Oregon,97223,Internal Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003019340,,EP,Oregon,97223,Internal Medicine,,Medicare,2014,Stage 2,3,11,2014,2014,1,A014E01NDHFMEAH,CHP-022048,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2010 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019340,,EP,Oregon,97223,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003019340,,EP,Oregon,97223,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003019563,,EP,Wisconsin,54915,Internal Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,A000001CO2E3EAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003019563,,EP,Wisconsin,54915,Internal Medicine,,Medicare,2014,Stage 1,2,12,2014,2014,0,A014E01OSD4XEAF,CHP-019399,"Sunquest Information Systems, Inc.",Sunquest Laboratory,7,Modular EHR,Inpatient,2014
+1003019563,,EP,Wisconsin,54915,Internal Medicine,,Medicare,2014,Stage 1,2,12,2014,2014,0,A014E01OSD4XEAF,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019563,,EP,Wisconsin,54915,Internal Medicine,,Medicare,2014,Stage 1,2,12,2014,2014,0,A014E01OSD4XEAF,CHP-022053,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003019563,,EP,Wisconsin,54915,Internal Medicine,,Medicare,2015,Stage 2,3,2,2016,,0,A014E01NC8DFEAL,CHP-022026,GE Healthcare,Centricity EMR,9.8,Modular EHR,Ambulatory,2014
+1003019613,,EP,New York,12524,Internal Medicine,,Medicare,2012,Stage 1,1,6,2012,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003019613,,EP,New York,12524,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003019621,,EP,Oregon,97239,Internal Medicine,,Medicare,2013,Stage 1,1,3,2014,,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003019621,,EP,Oregon,97239,Internal Medicine,,Medicare,2014,Stage 1,2,9,2014,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003019621,,EP,Oregon,97239,Internal Medicine,,Medicare,2015,Stage 2,3,1,2016,,0,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003019621,,EP,Oregon,97239,Internal Medicine,,Medicare,2016,Stage 2,4,1,2017,,0,1314E01QPVPIEAN,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003019654,,EP,California,95065,Radiology,,Medicare,2013,Stage 1,1,2,2014,,0,30000001SVZPEAK,CHP-007455,MedInformatix,MedInformatix,7.5,Complete EHR,Ambulatory,2011
+1003019654,,EP,California,95065,Radiology,,Medicare,2014,Stage 1,2,2,2015,2013,0,30000001SVZPEAK,CHP-007455,MedInformatix,MedInformatix,7.5,Complete EHR,Ambulatory,2011
+1003019670,,EP,Wisconsin,53792,Anesthesiology,,Medicare,2015,Stage 1,,2,2016,,0,A014E01MBBCYEAN,CHP-021120,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite (with Beaker),Epic 2014,Complete EHR,Inpatient,2014
+1003019670,,EP,Wisconsin,53792,Anesthesiology,,Medicare,2015,Stage 1,,2,2016,,0,A014E01MBBCYEAN,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003019811,,EP,Pennsylvania,15237,Psychiatry & Neurology,,Medicare,2013,Stage 1,1,8,2013,,0,A0H1301DAQVXEAF,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003019811,,EP,Pennsylvania,15237,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,11,2014,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019811,,EP,Pennsylvania,15237,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,2,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003019811,,EP,Pennsylvania,15237,Psychiatry & Neurology,,Medicare,2016,Stage 2,4,1,2017,,0,0014ECG9HMX4YUC,14.02.02.2654.A009.01.0.0.160614,UPMC,MyUPMC,2,Modular EHR,Ambulatory,2014
+1003019811,,EP,Pennsylvania,15237,Psychiatry & Neurology,,Medicare,2016,Stage 2,4,1,2017,,0,0014ECG9HMX4YUC,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003019902,,EP,Tennessee,37232,Psychiatry & Neurology,,Medicare,2013,Stage 1,1,3,2014,,0,30000011D1NSEAY,CHP-008699,Vanderbilt University,StarPanel,Version 2011.1,Complete EHR,Ambulatory,2011
+1003019902,,EP,Tennessee,37232,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,2,2015,2013,0,13H1301PNBKGEAX,CHP-009430,Vanderbilt University,StarPanel,Version 2011.1,Complete EHR,Ambulatory,2011
+1003019902,,EP,Tennessee,37232,Psychiatry & Neurology,,Medicare,2014,Stage 1,2,2,2015,2013,0,13H1301PNBKGEAX,CHP-023116,Vanderbilt University,StarPanel,2014.1,Modular EHR,Ambulatory,2014
+1003019902,,EP,Tennessee,37232,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,5,2016,,0,1314E01RM5YMEAT,CHP-023055,"CitiusTech, Inc.",BI-Clinical,13.1,Modular EHR,Ambulatory,2014
+1003019902,,EP,Tennessee,37232,Psychiatry & Neurology,,Medicare,2015,Stage 2,3,5,2016,,0,1314E01RM5YMEAT,CHP-025486,Vanderbilt University,StarPanel,2014.2,Modular EHR,Ambulatory,2014
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2011,Stage 1,1,1,2012,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301NANRNEAD,CHP-008650,NextGen Healthcare,NextGen EDR,4.2,Complete EHR,Ambulatory,2011
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301NANRNEAD,CHP-008718,NextGen Healthcare,NextGen Ambulatory EHR,5.7,Complete EHR,Ambulatory,2011
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,A0H1301NANRNEAD,CHP-021647,NextGen Healthcare,NextGen Ambulatory EHR,5.8.0.77,Complete EHR,Ambulatory,2014
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2014,Stage 1,4,5,2015,2014,1,A014E01OSQBNEAN,CHP-022660,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003020041,,EP,New York,14626,Family Medicine,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2012,Stage 1,1,2,2013,,1,A000001CD2OSEAB,CHP-007567,GE Healthcare,Centricity EMR,9.5,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2012,Stage 1,1,2,2013,,1,A000001CD2OSEAB,CHP-008742,Lester E. Cox Medical Centers (DBA: CoxHealth),CoxHealth Express,2,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2013,Stage 1,2,2,2014,,1,A000001CD2OSEAB,CHP-007567,GE Healthcare,Centricity EMR,9.5,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2013,Stage 1,2,2,2014,,1,A000001CD2OSEAB,CHP-008742,Lester E. Cox Medical Centers (DBA: CoxHealth),CoxHealth Express,2,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2014,Stage 1,3,2,2015,2013,1,A000001CD2OSEAB,CHP-007567,GE Healthcare,Centricity EMR,9.5,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2014,Stage 1,3,2,2015,2013,1,A000001CD2OSEAB,CHP-008742,Lester E. Cox Medical Centers (DBA: CoxHealth),CoxHealth Express,2,Modular EHR,Ambulatory,2011
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCNE4EAP,CHP-019088,"FairWarning® Technologies, Inc.",FairWarning® Patient Privacy Monitoring,3.1,Modular EHR,Ambulatory,2014
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCNE4EAP,CHP-022026,GE Healthcare,Centricity EMR,9.8,Modular EHR,Ambulatory,2014
+1003020116,,EP,Missouri,65807,Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RCNE4EAP,CHP-024145,Lester E. Cox Medical Centers (DBA: CoxHealth),CoxHealth Express,2,Modular EHR,Ambulatory,2014
+1003020264,,EP,Texas,22701,Surgery,,Medicare,2015,Stage 1,,3,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-021926,Cerner Corporation,Powerchart (Image Results),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-021939,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-021945,Cerner Corporation,Powerchart (Clinical),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-022549,Cerner Corporation,Powerchart (CQM),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-023318,Cerner Corporation,HealthSentry,2014.06,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-023995,Cerner Corporation,HealthSentry,2014.07,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2014,0,1314E01PEC3GEAB,CHP-024023,Cerner Corporation,HealthSentry,2014.08,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-021926,Cerner Corporation,Powerchart (Image Results),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-021939,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-021945,Cerner Corporation,Powerchart (Clinical),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-022549,Cerner Corporation,Powerchart (CQM),2012.01.24,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-023318,Cerner Corporation,HealthSentry,2014.06,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-023995,Cerner Corporation,HealthSentry,2014.07,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2015,Stage 2,4,3,2016,,0,1314E01PEC3GEAB,CHP-024023,Cerner Corporation,HealthSentry,2014.08,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.FIA1.03.1.1.160711,Cerner Corporation,FirstNet (Clinical),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.FIA2.03.1.1.160711,Cerner Corporation,FirstNet (CQM),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.FIA4.03.1.0.160711,Cerner Corporation,FirstNet (Image Results),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.HEA2.03.1.1.160711,Cerner Corporation,HealtheLife and Powerchart,2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.HEA3.03.1.1.160711,Cerner Corporation,HealtheLife and FirstNet,2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.PAA3.03.1.1.160711,Cerner Corporation,PathNet,2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.POA4.03.1.0.160711,Cerner Corporation,Powerchart (Image Results),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.03.07.1221.POA5.03.1.1.160711,Cerner Corporation,Powerchart (Clinical),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,14.07.07.1221.POA1.03.1.1.160711,Cerner Corporation,Powerchart (CQM),2015.01.15,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025183,Cerner Corporation,Powerchart (Clinical),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025185,Cerner Corporation,FirstNet (Clinical),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025186,Cerner Corporation,HealtheLife and Powerchart,2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025189,Cerner Corporation,Powerchart (CQM),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025191,Cerner Corporation,HealtheLife and FirstNet,2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025194,Cerner Corporation,FirstNet (Image Results),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025197,Cerner Corporation,FirstNet (CQM),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-025199,Cerner Corporation,Powerchart (Image Results),2015.01.01,Modular EHR,Ambulatory,2014
+1003020496,,EP,Iowa,52655,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,2,2017,,0,0014E8B4NYQ1Y5M,CHP-028466,Cerner Corporation,PathNet,2015.01.09,Modular EHR,Ambulatory,2014
+1003020561,,EP,Michigan,48075,Thoracic Surgery (Cardiothoracic Vascular Surgery),,Medicare,2013,Stage 1,1,12,2013,,0,A000001CO2E3EAL,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003020645,,EP,Nebraska,68124,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003020645,,EP,Nebraska,68124,Internal Medicine,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003020645,,EP,Nebraska,68124,Internal Medicine,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003020645,,EP,Nebraska,68124,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003020660,,EP,Washington,98122,Surgery,,Medicare,2013,Stage 1,3,2,2014,,1,A000001CMCQIEA5,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003020660,,EP,Washington,98122,Surgery,,Medicare,2013,Stage 1,3,2,2014,,1,A000001CMCQIEA5,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003020660,,EP,Washington,98122,Surgery,,Medicare,2014,Stage 2,4,5,2015,2014,1,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003020660,,EP,Washington,98122,Surgery,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01PNJQDEAZ,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003020660,,EP,Washington,98122,Surgery,,Medicare,2015,Stage 2,5,5,2016,,1,1314E01PNJQDEAZ,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003021064,,EP,Wyoming,82001,Obstetrics & Gynecology,,Medicare,2013,Stage 1,1,8,2013,,0,A0H1301IELRSEAN,CHP-019719,"athenahealth, Inc.",athenaClinicals,13.8,Complete EHR,Ambulatory,2011
+1003021064,,EP,Wyoming,82001,Obstetrics & Gynecology,,Medicare,2014,Stage 1,2,6,2014,2014,0,A014E01NCQ8ZEAX,CHP-022105,"athenahealth, Inc.",athenaClinicals,14.3,Complete EHR,Ambulatory,2014
+1003021064,,EP,Wyoming,82001,Obstetrics & Gynecology,,Medicare,2015,Stage 2,3,1,2016,,0,1314E01RBGY5EAD,CHP-028427,"athenahealth, Inc.",athenaClinicals,15.1,Complete EHR,Ambulatory,2014
+1003021064,,EP,Wyoming,82001,Obstetrics & Gynecology,,Medicare,2016,Stage 2,4,1,2017,,0,0014EWR4DR4GCQ6,14.07.07.2880.ATA1.08.1.1.161123,"athenahealth, Inc.",athenaClinicals,16.11,Complete EHR,Ambulatory,2014
+1003021205,,EP,California,93010,Optometrist,,Medicare,2012,Stage 1,1,12,2012,,1,A000001AOMVQEAH,CHP-009131,First Insight Corporation,MaximEyes SQL Electronic Health Records,1.1.1.4,Complete EHR,Ambulatory,2011
+1003021205,,EP,California,93010,Optometrist,,Medicare,2013,Stage 1,2,1,2014,,1,A000001AOMVQEAH,CHP-009131,First Insight Corporation,MaximEyes SQL Electronic Health Records,1.1.1.4,Complete EHR,Ambulatory,2011
+1003021205,,EP,California,93010,Optometrist,,Medicare,2014,Stage 2,3,1,2015,2014,1,1314E01OSTPOEAF,CHP-022826,First Insight Corporation,MaximEyes Electronic Health Records,2.0.0.0,Complete EHR,Ambulatory,2014
+1003021205,,EP,California,93010,Optometrist,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RAPVWEAX,CHP-025505,First Insight Corporation,MaximEyes Electronic Health Records,2.0.2.0,Complete EHR,Ambulatory,2014
+1003021205,,EP,California,93010,Optometrist,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RAPVWEAX,CHP-028091,First Insight Corporation,MaximEyes Electronic Health Records,2.0.3.0,Complete EHR,Ambulatory,2014
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2012,Stage 1,2,2,2013,,1,30000001TVXJEA4,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2012,Stage 1,2,2,2013,,1,30000001TVXJEA4,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2013,Stage 1,3,1,2014,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2014,Stage 2,4,1,2015,2014,1,1314E01PCBPCEAV,CHP-024456,"Modernizing Medicine, Inc.",EMA Mobile,4.0.0.3,Modular EHR,Ambulatory,2014
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2014,Stage 2,4,1,2015,2014,1,1314E01PCBPCEAV,CHP-024458,"Modernizing Medicine, Inc.",EMA,4.0.0.3,Complete EHR,Ambulatory,2014
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RCQIYEAX,CHP-028683,"Modernizing Medicine, Inc.",EMA,4.0.0.10,Complete EHR,Ambulatory,2014
+1003021973,,EP,Ohio,44320,Dermatology,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RCQIYEAX,CHP-028685,"Modernizing Medicine, Inc.",EMA Mobile,4.0.0.10,Modular EHR,Ambulatory,2014
+1003022013,,EP,Texas,77030,Psychiatry & Neurology,,Medicare,2012,Stage 1,1,2,2013,,1,30000004S2LOEAY,CHP-006943,UT MD Anderson Cancer Center,ClinicStation,4,Complete EHR,Ambulatory,2011
+1003022013,,EP,Texas,77030,Psychiatry & Neurology,,Medicare,2013,Stage 1,2,1,2014,,1,30000004S2LOEAY,CHP-006943,UT MD Anderson Cancer Center,ClinicStation,4,Complete EHR,Ambulatory,2011
+1003022013,,EP,Texas,77030,Psychiatry & Neurology,,Medicare,2014,Stage 1,3,2,2015,2013,1,30000004S2LOEAY,CHP-006943,UT MD Anderson Cancer Center,ClinicStation,4,Complete EHR,Ambulatory,2011
+1003022112,,EP,Washington,98056,Family Medicine,,Medicare,2014,Stage 1,1,1,2015,2014,0,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003022112,,EP,Washington,98056,Family Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01PJWMJEAT,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003022112,,EP,Washington,98056,Family Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01PJWMJEAT,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003022245,,EP,Pennsylvania,19047,Obstetrics & Gynecology,,Medicare,2011,Stage 1,1,12,2011,,1,30000005GG6IEAG,CHP-008053,"athenahealth, Inc.",athenaClinicals,11.11,Complete EHR,Ambulatory,2011
+1003022245,,EP,Pennsylvania,19047,Obstetrics & Gynecology,,Medicare,2012,Stage 1,2,4,2013,,1,A0H1301DARU8EAN,CHP-018387,"athenahealth, Inc.",athenaClinicals,13.1,Complete EHR,Ambulatory,2011
+1003022245,,EP,Pennsylvania,19047,Obstetrics & Gynecology,,Medicare,2013,Stage 1,3,3,2014,,1,A0H1301KHQTXEAV,CHP-021495,"athenahealth, Inc.",athenaClinicals,13.12,Complete EHR,Ambulatory,2011
+1003022245,,EP,Pennsylvania,19047,Obstetrics & Gynecology,,Medicare,2014,Stage 2,4,12,2014,2014,1,1314E01OUXXYEA3,CHP-023079,"athenahealth, Inc.",athenaClinicals,14.6,Complete EHR,Ambulatory,2014
+1003022245,,EP,Pennsylvania,19047,Obstetrics & Gynecology,,Medicare,2015,Stage 2,5,1,2016,,1,1314E01RBGY5EAD,CHP-028427,"athenahealth, Inc.",athenaClinicals,15.1,Complete EHR,Ambulatory,2014
+1003022500,,EP,Pennsylvania,19090,Anesthesiology,,Medicare,2013,Stage 1,1,10,2013,,0,30000005C9AYEAA,CHP-007283,"DR Systems, Inc.",eHR Meaningful Use for Medical Imaging,1,Complete EHR,Ambulatory,2011
+1003022500,,EP,Delaware,19090,Anesthesiology,,Medicare,2014,Stage 1,2,3,2015,2013,0,A000001D6AMREAR,CHP-008999,"Arête Healthcare Services, LLC",enCompass EHR,2,Complete EHR,Ambulatory,2011
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2012,Stage 1,1,7,2012,,1,30000001SWQOEAS,CHP-007426,"ChartLogic, Inc.",ChartLogic EMR,7,Complete EHR,Ambulatory,2011
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-021868,Cerner Corporation,PathNet,2012.01.22,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-021924,Cerner Corporation,Powerchart (Image Results),2012.01.23,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-021940,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.23,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-021946,Cerner Corporation,Powerchart (Clinical),2012.01.23,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-024023,Cerner Corporation,HealthSentry,2014.08,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-024460,Cerner Corporation,HealthSentry,2014.09,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-024715,Cerner Corporation,Powerchart (CQM),2012.01.23,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-024968,Cerner Corporation,HealthSentry,2014.1,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,5,2015,2014,1,1314E01PTKCBEAN,CHP-024990,Cerner Corporation,HealthSentry,2014.11,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027941,Cerner Corporation,HealtheLife and FirstNet,2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027948,Cerner Corporation,Powerchart (CQM),2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027950,Cerner Corporation,Powerchart (Clinical),2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027952,Cerner Corporation,FirstNet (Clinical),2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027958,Cerner Corporation,FirstNet (CQM),2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-027981,Cerner Corporation,HealtheLife and Powerchart,2012.01.41,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-028304,Cerner Corporation,HealthSentry,2015.08,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-028312,Cerner Corporation,HealthSentry,2015.07,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003022591,,EP,Indiana,46202,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RM6QBEA1,CHP-028435,Cerner Corporation,HealthSentry,2015.09,Modular EHR,Ambulatory,2014
+1003022641,,EP,Michigan,48085,Family Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01QQ7BIEAR,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003022641,,EP,Michigan,48085,Family Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01QQ7BIEAR,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003022641,,EP,Michigan,48085,Family Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01QQ7BIEAR,CHP-023662,Epic Systems Corporation,Outgoing Public Health Reporting from EpicCare Functionality,Epic 2010,Modular EHR,Inpatient,2014
+1003022641,,EP,Michigan,48085,Family Medicine,,Medicare,2015,Stage 1,,3,2016,,0,1314E01QQ7BIEAR,CHP-025048,GE Healthcare,Centricity RIS-IC,10.8,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-021940,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.23,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-021946,Cerner Corporation,Powerchart (Clinical),2012.01.23,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-021948,Cerner Corporation,PathNet,2012.01.23,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-022479,Cerner Corporation,HealthSentry,2014.03,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-023078,Cerner Corporation,HealthSentry,2014.05,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-023081,Cerner Corporation,HealthSentry,2014.04,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-023318,Cerner Corporation,HealthSentry,2014.06,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2014,Stage 1,1,8,2014,2014,0,1314E01PGBOJEAL,CHP-023329,Cerner Corporation,Powerchart (CQM),2012.01.23,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-025427,Cerner Corporation,Powerchart (CQM),2015.01.03,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-025429,Cerner Corporation,Powerchart (Clinical),2015.01.03,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-025463,Cerner Corporation,HealtheLife and Powerchart,2015.01.03,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-025469,Cerner Corporation,PathNet,2015.01.03,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-027270,Cerner Corporation,HealthSentry,2015.05,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-027921,Cerner Corporation,HealthSentry,2015.06,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-027996,Cerner Corporation,Powerchart (CQM),2015.01.06,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028011,Cerner Corporation,HealtheLife and Powerchart,2015.01.06,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028018,Cerner Corporation,Powerchart (Clinical),2015.01.06,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028300,Cerner Corporation,Powerchart Touch,3.5,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028304,Cerner Corporation,HealthSentry,2015.08,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028312,Cerner Corporation,HealthSentry,2015.07,Modular EHR,Ambulatory,2014
+1003022708,,EP,Nebraska,51503,Internal Medicine,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RMADFEA5,CHP-028435,Cerner Corporation,HealthSentry,2015.09,Modular EHR,Ambulatory,2014
+1003022898,,EP,California,91361,Family Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003022898,,EP,California,91361,Family Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003022898,,EP,California,91361,Family Medicine,,Medicare,2014,Stage 1,3,1,2015,2014,1,13H1301PAQYFEAJ,CHP-019055,NextGen Healthcare,NextGen Ambulatory EHR,5.8.0.77,Complete EHR,Ambulatory,2014
+1003023201,,EP,North Carolina,27710,Psychiatry & Neurology,,Medicare,2015,Stage 1,4,2,2016,,0,1314E01PSW7NEAV,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003023201,,EP,North Carolina,27710,Psychiatry & Neurology,,Medicare,2015,Stage 1,4,2,2016,,0,1314E01PSW7NEAV,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003023201,,EP,North Carolina,27710,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,1,2017,,0,1314E01QOFT3EAL,CHP-021118,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014,Modular EHR,Ambulatory,2014
+1003023201,,EP,North Carolina,27710,Psychiatry & Neurology,,Medicare,2016,Stage 2,5,1,2017,,0,1314E01QOFT3EAL,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003023276,,EP,Virginia,87106,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01OUSIGEAF,CHP-019660,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003023276,,EP,Virginia,87106,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01OUSIGEAF,CHP-022969,HCA Physician Services,M.A.P.,v1.2.0,Modular EHR,Ambulatory,2014
+1003023425,,EP,California,95991,Chiropractor,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01OSQDVEAN,CHP-022867,"Integrated Practice Solutions, Inc.",ChiroTouch,6,Complete EHR,Ambulatory,2014
+1003023581,,EP,Florida,33952,Internal Medicine,,Medicare,2012,Stage 1,1,10,2012,,1,A0000019KLGREAI,CHP-009126,"Falcon, LLC.",Falcon EHR,1.18.2,Complete EHR,Ambulatory,2011
+1003023581,,EP,Florida,33952,Internal Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,A0H1301DAPFAEAN,CHP-009126,"Falcon, LLC.",Falcon EHR,1.18.2,Complete EHR,Ambulatory,2011
+1003023581,,EP,Florida,33952,Internal Medicine,,Medicare,2014,Stage 2,3,1,2015,2014,1,1314E01P3YO9EAF,CHP-023102,"Falcon, LLC.",Falcon,2.35.0,Modular EHR,Ambulatory,2014
+1003023581,,EP,Florida,33952,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01P3YO9EAF,CHP-023102,"Falcon, LLC.",Falcon,2.35.0,Modular EHR,Ambulatory,2014
+1003023706,,EP,Virginia,22124,Family Medicine,,Medicare,2013,Stage 1,1,12,2013,,0,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003023706,,EP,Virginia,22124,Family Medicine,,Medicare,2014,Stage 1,2,1,2015,2014,0,A014E01NDRWJEAX,CHP-022112,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003023706,,EP,Virginia,22124,Family Medicine,,Medicare,2015,Stage 2,3,2,2016,,0,A014E01NDRWJEAX,CHP-022112,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003024191,,EP,California,91355,Radiology,,Medicare,2014,Stage 1,1,1,2015,2014,0,A014E01O2TVBEAF,CHP-022027,"DR Systems, Inc.",eHR Meaningful Use,2,Complete EHR,Ambulatory,2014
+1003024191,,EP,California,91355,Radiology,,Medicare,2015,Stage 1,2,2,2016,,0,A014E01O2TVBEAF,CHP-022027,"DR Systems, Inc.",eHR Meaningful Use,2,Complete EHR,Ambulatory,2014
+1003024191,,EP,California,91355,Radiology,,Medicare,2016,Stage 2,3,1,2017,,0,A014E01O2TVBEAF,CHP-022027,"DR Systems, Inc.",eHR Meaningful Use,2,Complete EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2012,Stage 1,1,12,2012,,1,30000004UNFAEAQ,CHP-006920,Cerner Corporation,Powerchart and Cerner Healthe,2010.02.03,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2012,Stage 1,1,12,2012,,1,30000004UNFAEAQ,CHP-007665,UAB Health System,MyHealth@UABMedicine,6.1,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2012,Stage 1,1,12,2012,,1,30000004UNFAEAQ,CHP-008159,Cerner Corporation,Health Sentry,2011.07,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2013,Stage 1,2,2,2014,,1,30000004UNFAEAQ,CHP-006920,Cerner Corporation,Powerchart and Cerner Healthe,2010.02.03,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2013,Stage 1,2,2,2014,,1,30000004UNFAEAQ,CHP-007665,UAB Health System,MyHealth@UABMedicine,6.1,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2013,Stage 1,2,2,2014,,1,30000004UNFAEAQ,CHP-008159,Cerner Corporation,Health Sentry,2011.07,Modular EHR,Ambulatory,2011
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-019088,"FairWarning® Technologies, Inc.",FairWarning® Patient Privacy Monitoring,3.1,Modular EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-024151,Cerner Corporation,Powerchart (Clinical),2012.01.33,Modular EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-024159,Cerner Corporation,Powerchart (CQM),2012.01.33,Modular EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-024161,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.33,Modular EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003024746,,EP,Alabama,35249,Student in an Organized Health Care Education/Training Program,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01RMRJLEAL,CHP-028978,Cerner Corporation,HealthSentry,2015.11,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022087,Cerner Corporation,Powerchart (Clinical),2012.01.26,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022090,Cerner Corporation,Cerner Patient Portal and FirstNet,2012.01.26,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022091,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.26,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022093,Cerner Corporation,Powerchart (All CQM's),2012.01.26,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022094,Cerner Corporation,Powerchart (eRX),2012.01.26,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-022836,Cerner Corporation,Powerchart (Clinical),2012.01.26,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-023318,Cerner Corporation,HealthSentry,2014.06,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-023323,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.26,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-023331,Cerner Corporation,Powerchart (CQM),2012.01.26,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-023884,EMRConnect,Access Profiler Enterprise,V6.1,Modular EHR,Inpatient,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PKI5EEAT,CHP-023885,EMRConnect,Access Profiler Enterprise,V6.1,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-024151,Cerner Corporation,Powerchart (Clinical),2012.01.33,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-024161,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.33,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-024170,Cerner Corporation,PathNet,2012.01.33,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-024711,Cerner Corporation,Powerchart (CQM),2012.01.33,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-025271,Cerner Corporation,HealthSentry,2015.01,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-025369,Cerner Corporation,HealthSentry,2015.02,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-027111,Cerner Corporation,HealthSentry,2015.03,Modular EHR,Ambulatory,2014
+1003024811,,EP,Pennsylvania,19462,Internal Medicine,,Medicare,2015,Stage 1,2,3,2016,,0,1314E01RMR7AEAD,CHP-028323,Cerner Corporation,Cerner Sentinel Cloud Audit Reporting and Cerner Sentinel Cloud Audit Service,Sentinel 6.4 (Reporting) and 5.13 (Service),Modular EHR,Ambulatory,2014
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVIWEAK,CHP-007424,"Aprima Medical Software, Inc",Aprima,2011,Complete EHR,Ambulatory,2011
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVIWEAK,CHP-007424,"Aprima Medical Software, Inc",Aprima,2011,Complete EHR,Ambulatory,2011
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2014,Stage 1,3,3,2015,2014,1,1314E01PHRU6EAH,CHP-023360,"Aprima Medical Software, Inc.",Aprima PRM 2014,14.0.1,Complete EHR,Ambulatory,2014
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01RBGYUEAT,CHP-028425,"athenahealth, Inc.",athenaClinicals,15.11,Complete EHR,Ambulatory,2014
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATA1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Complete EHR,Ambulatory,2014
+1003024894,,EP,Ohio,44601,Orthopaedic Surgery,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATI1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Modular EHR,Inpatient,2014
+1003025271,,EP,Texas,75024,Internal Medicine,,Medicare,2011,Stage 1,1,11,2011,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003025271,,EP,Texas,75024,Internal Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003025271,,EP,Texas,75024,Internal Medicine,,Medicare,2014,Stage 1,4,2,2015,2014,1,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2013,Stage 1,1,9,2013,,0,30000005ZFAIEA4,CHP-006673,"HCA Information Technology & Services, Inc.",hCare EHR Dashboard for EP v 1.0,1,Modular EHR,Ambulatory,2011
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2013,Stage 1,1,9,2013,,0,30000005ZFAIEA4,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01OUSIGEAF,CHP-019660,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01OUSIGEAF,CHP-022969,HCA Physician Services,M.A.P.,v1.2.0,Modular EHR,Ambulatory,2014
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01OUSIGEAF,CHP-019660,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003025628,,EP,Texas,77591,Surgery,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01OUSIGEAF,CHP-022969,HCA Physician Services,M.A.P.,v1.2.0,Modular EHR,Ambulatory,2014
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,A000001ENSIEEAJ,CHP-008032,Allscripts,Allscripts Enterprise EHR (Complete),11.2,Complete EHR,Ambulatory,2011
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2012,Stage 1,1,2,2013,,1,A000001ENSIEEAJ,CHP-009458,Jardogs,FollowMyHealth,1.4.5,Modular EHR,Ambulatory,2011
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A000001IGLESEAJ,CHP-007427,Allscripts,Allscripts Enterprise E HR,11.2,Complete EHR,Ambulatory,2011
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A000001IGLESEAJ,CHP-019380,Allscripts,Allscripts Enterprise EHR (Complete),11.4.1,Complete EHR,Ambulatory,2011
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2014,Stage 1,3,5,2015,2014,1,A014E01O3OMAEAF,CHP-022206,Allscripts,Allscripts TouchWorks EHR,11.4.1,Complete EHR,Ambulatory,2014
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O2MMCEAB,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003026055,,EP,North Carolina,27215,Internal Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O2MMCEAB,CHP-022051,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite (with Beaker),Epic 2012 (April 2013 CQMs),Complete EHR,Inpatient,2014
+1003026329,,EP,Pennsylvania,12601,Radiology,,Medicare,2014,Stage 1,1,10,2014,2014,0,A014E01NDGIDEAT,CHP-022161,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003026329,,EP,Pennsylvania,12601,Radiology,,Medicare,2015,Stage 1,2,3,2016,,0,A014E01NDGIDEAT,CHP-022161,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003026493,,EP,South Dakota,53715,Obstetrics & Gynecology,,Medicare,2011,Stage 1,1,10,2011,,1,30000004R7FREAA,CHP-006915,"athenahealth, Inc.",athenaClinicals,11.9,Complete EHR,Ambulatory,2011
+1003026493,,EP,South Dakota,53715,Obstetrics & Gynecology,,Medicare,2012,Stage 1,2,4,2013,,1,A0H1301DARU8EAN,CHP-018387,"athenahealth, Inc.",athenaClinicals,13.1,Complete EHR,Ambulatory,2011
+1003026493,,EP,South Dakota,53715,Obstetrics & Gynecology,,Medicare,2013,Stage 1,3,3,2014,,1,A0H1301KHQTXEAV,CHP-021495,"athenahealth, Inc.",athenaClinicals,13.12,Complete EHR,Ambulatory,2011
+1003027038,,EP,Texas,77065,Otolaryngology,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003027038,,EP,Texas,77065,Otolaryngology,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SVGWEAS,CHP-007425,NextGen Healthcare,NextGen Ambulatory EHR,5.6 SP1,Complete EHR,Ambulatory,2011
+1003027038,,EP,Texas,77065,Otolaryngology,,Medicare,2014,Stage 1,3,2,2015,2014,1,13H1301PB3LAEAZ,CHP-022660,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003027038,,EP,Texas,77065,Otolaryngology,,Medicare,2015,Stage 2,4,2,2016,,1,1314E01PHNJKEA5,CHP-023369,NextGen Healthcare,NextGen Ambulatory EHR,5.8.1,Complete EHR,Ambulatory,2014
+1003027103,,EP,Oklahoma,74066,Chiropractor,,Medicare,2013,Stage 1,1,3,2014,,0,A000001KFRRFEAV,CHP-020580,"Pinnacle Management Group, INC",Seamless - EHR Certified Level,Version 1.3.0.0 with eSuite,Complete EHR,Ambulatory,2011
+1003027103,,EP,Oklahoma,74066,Chiropractor,,Medicare,2014,Stage 1,2,3,2015,2013,0,A000001KFRRFEAV,CHP-020580,"Pinnacle Management Group, INC",Seamless - EHR Certified Level,Version 1.3.0.0 with eSuite,Complete EHR,Ambulatory,2011
+1003027103,,EP,Oklahoma,74066,Chiropractor,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RCNSDEAH,CHP-028404,Medicfusion Inc.,Medicfusion,v 2.2,Complete EHR,Ambulatory,2014
+1003027194,,EP,West Virginia,26506,Internal Medicine,,Medicare,2014,Stage 1,1,2,2015,2014,0,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003027194,,EP,West Virginia,26506,Internal Medicine,,Medicare,2015,Stage 1,2,1,2016,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003027194,,EP,West Virginia,26506,Internal Medicine,,Medicare,2016,Stage 2,3,1,2017,,0,A014E01NCEULEA5,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003027285,,EP,Georgia,31901,Radiology,,Medicare,2014,Stage 1,1,2,2015,2014,0,A014E01KHJZREAN,CHP-021313,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,v9,Complete EHR,Ambulatory,2014
+1003027285,,EP,Georgia,31901,Radiology,,Medicare,2015,Stage 1,2,1,2016,,0,A014E01KHJZREAN,CHP-021313,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,v9,Complete EHR,Ambulatory,2014
+1003027285,,EP,Georgia,31901,Radiology,,Medicare,2016,Stage 2,3,1,2017,,0,A014E01KHJZREAN,CHP-021313,"Vitera Healthcare Solutions, LLC",Vitera Intergy Meaningful Use Edition,v9,Complete EHR,Ambulatory,2014
+1003027392,,EP,Ohio,45069,Neurological Surgery,,Medicare,2012,Stage 1,1,11,2012,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003027392,,EP,Ohio,45069,Neurological Surgery,,Medicare,2013,Stage 1,2,1,2014,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003027392,,EP,Ohio,45069,Neurological Surgery,,Medicare,2014,Stage 1,3,1,2015,2013,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003027392,,EP,Ohio,45069,Neurological Surgery,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01NC34GEAD,CHP-022025,GE Healthcare,Centricity EMR,9.8,Complete EHR,Ambulatory,2014
+1003027483,,EP,Maryland,21117,Internal Medicine,,Medicare,2012,Stage 1,1,5,2012,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003027483,,EP,Maryland,21117,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVE6EAC,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003027483,,EP,Maryland,21117,Internal Medicine,,Medicare,2014,Stage 1,3,1,2015,2014,1,A014E01NDRWJEAX,CHP-022112,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003027483,,EP,Maryland,21117,Internal Medicine,,Medicare,2015,Stage 2,4,5,2016,,1,A014E01NDRWJEAX,CHP-022112,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-019828,Orion Health,Rhapsody Integration Engine,5.4,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-022836,Cerner Corporation,Powerchart (Clinical),2012.01.26,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023312,Cerner Corporation,Powerchart (Image Results),2012.01.26,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023318,Cerner Corporation,HealthSentry,2014.06,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023319,Cerner Corporation,PathNet,2012.01.26,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023323,Cerner Corporation,Cerner Patient Portal and Powerchart,2012.01.26,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023331,Cerner Corporation,Powerchart (CQM),2012.01.26,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-023995,Cerner Corporation,HealthSentry,2014.07,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2014,Stage 1,1,3,2015,2014,0,1314E01PVPUMEAF,CHP-024023,Cerner Corporation,HealthSentry,2014.08,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-025013,Cerner Corporation,Powerchart (Clinical),2012.01.36,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-025015,Cerner Corporation,Powerchart (CQM),2012.01.36,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-025019,Cerner Corporation,HealtheLife and Powerchart,2012.01.36,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-025271,Cerner Corporation,HealthSentry,2015.01,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-025369,Cerner Corporation,HealthSentry,2015.02,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-027111,Cerner Corporation,HealthSentry,2015.03,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-027269,Cerner Corporation,HealthSentry,2015.04,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-027270,Cerner Corporation,HealthSentry,2015.05,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-027921,Cerner Corporation,HealthSentry,2015.06,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-028304,Cerner Corporation,HealthSentry,2015.08,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-028312,Cerner Corporation,HealthSentry,2015.07,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-028431,Cerner Corporation,HealthSentry,2015.1,Modular EHR,Ambulatory,2014
+1003027582,,EP,North Dakota,58701,Radiology,,Medicare,2015,Stage 1,2,5,2016,,0,1314E01RCOTZEA5,CHP-028435,Cerner Corporation,HealthSentry,2015.09,Modular EHR,Ambulatory,2014
+1003027590,,EP,Florida,32609,Chiropractor,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01P3YRHEAV,CHP-023110,"E-Z BIS, Inc.",E-Z BIS Office,10.2,Modular EHR,Ambulatory,2014
+1003027590,,EP,Florida,32609,Chiropractor,,Medicare,2015,Stage 1,2,2,2016,,0,1314E01PV2JMEAR,CHP-025074,"E-Z BIS, Inc.",E-Z BIS Office,10.4,Complete EHR,Ambulatory,2014
+1003027590,,EP,Florida,32609,Chiropractor,,Medicare,2016,Stage 2,3,1,2017,,0,0014E650UJU9V6Q,14.04.04.1386.E-ZB.05.1.1.160421,"E-Z BIS, Inc.",E-Z BIS Office,10.5,Complete EHR,Ambulatory,2014
+1003027905,,EP,Texas,77030,Neurological Surgery,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003027905,,EP,Texas,77030,Neurological Surgery,,Medicare,2013,Stage 1,2,3,2014,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003027905,,EP,Texas,77030,Neurological Surgery,,Medicare,2014,Stage 2,3,10,2014,2014,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003027905,,EP,Texas,77030,Neurological Surgery,,Medicare,2015,Stage 2,4,3,2016,,1,A014E01NC9ZLEA1,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003027913,,EP,Virginia,24017,Family Medicine,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003027913,,EP,Virginia,24017,Family Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003027939,,EP,Iowa,51601,Family Medicine,,Medicare,2013,Stage 1,1,9,2013,,0,300000184JEMEA2,CHP-008984,Amazing Charts,Amazing Charts,6.3.3,Complete EHR,Ambulatory,2011
+1003027939,,EP,Iowa,51601,Family Medicine,,Medicare,2014,Stage 1,2,2,2015,2014,0,1314E01PGBPXEA1,CHP-023292,Amazing Charts,Amazing Charts,7.1,Complete EHR,Ambulatory,2014
+1003028101,,EP,New York,11561,Podiatrist,,Medicare,2012,Stage 1,1,12,2012,,1,30000001SVAKEAS,CHP-007480,Sammy Systems,SammyEHR,5.1.1,Complete EHR,Ambulatory,2011
+1003028101,,EP,New York,11561,Podiatrist,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVAKEAS,CHP-007480,Sammy Systems,SammyEHR,5.1.1,Complete EHR,Ambulatory,2011
+1003028101,,EP,New York,11561,Podiatrist,,Medicare,2014,Stage 1,3,1,2015,2014,1,A014E01MZPAHEAT,CHP-021756,"ICS Software, Ltd.",SammyEHR,v6.1,Complete EHR,Ambulatory,2014
+1003028101,,EP,New York,11561,Podiatrist,,Medicare,2016,Stage 2,5,1,2017,,1,A014E01MZPAHEAT,CHP-021756,"ICS Software, Ltd.",SammyEHR,v6.1,Complete EHR,Ambulatory,2014
+1003028150,,EP,Illinois,61615,Family Medicine,,Medicare,2012,Stage 1,1,11,2012,,1,30000001TCLDEA0,CHP-007180,McKesson,Horizon Ambulatory Care,10.3.1,Complete EHR,Ambulatory,2011
+1003028150,,EP,Illinois,61615,Family Medicine,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01IF4H5EAB,CHP-019739,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012,Complete EHR,Ambulatory,2014
+1003028150,,EP,Illinois,61615,Family Medicine,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01KFLAFEAJ,CHP-021121,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014,Complete EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-019707,Allscripts,Allscripts Enterprise EHR,Version 11.4.1,Modular EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-021100,Allscripts,dbMotion,5,Modular EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-021321,Allscripts,Allscripts Enterprise EHR,Version 11.4.1 (CQM Phase 2),Modular EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-021796,Allscripts,Allscripts Enterprise EHR,Version 11.4.1 (CQM Phase 3),Modular EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-022207,Allscripts,Allscripts Enterprise EHR,11.4.1 (CQM Phase 4),Modular EHR,Ambulatory,2014
+1003028556,,EP,California,93030,Neurological Surgery,,Medicare,2015,Stage 1,,2,2016,,0,1314E01RAQMUEA5,CHP-022952,"MedSeek, Inc.",MEDSEEK Empower,5.1,Modular EHR,Ambulatory,2014
+1003028705,,EP,Washington,98030,Family Medicine,,Medicare,2011,Stage 1,1,12,2011,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003028705,,EP,Washington,98030,Family Medicine,,Medicare,2012,Stage 1,2,2,2013,,1,30000001SWQTEAS,CHP-007407,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Summer 2009,Complete EHR,Ambulatory,2011
+1003028812,,EP,Florida,33916,Physical Medicine & Rehabilitation,,Medicare,2012,Stage 1,1,2,2013,,1,30000005AXAYEAA,CHP-008009,SRSsoft,SRS EHR,v8.3,Complete EHR,Ambulatory,2011
+1003028812,,EP,Virginia,33916,Physical Medicine & Rehabilitation,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01QOS1WEAH,CHP-027128,NextGen Healthcare,NextGen Ambulatory EHR,5.8.2,Complete EHR,Ambulatory,2014
+1003029034,,EP,Idaho,83854,Orthopaedic Surgery,,Medicare,2012,Stage 1,1,1,2013,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003029034,,EP,Idaho,83854,Orthopaedic Surgery,,Medicare,2016,Stage 2,5,1,2017,,1,0014EXN2QC059SC,14.04.04.2913.Gree.PP.1.1.161006,"Greenway Health, LLC",Greenway Prime Suite,v17.40,Complete EHR,Ambulatory,2014
+1003029034,,EP,Idaho,83854,Orthopaedic Surgery,,Medicare,2016,Stage 2,5,1,2017,,1,0014EXN2QC059SC,CHP-027128,NextGen Healthcare,NextGen Ambulatory EHR,5.8.2,Complete EHR,Ambulatory,2014
+1003029075,,EP,West Virginia,25309,Internal Medicine,,Medicare,2012,Stage 1,1,8,2012,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003029075,,EP,West Virginia,25309,Internal Medicine,,Medicare,2013,Stage 1,2,1,2014,,1,30000001SVGGEAC,CHP-007490,"Greenway Health, LLC",PrimeSuite,2011,Complete EHR,Ambulatory,2011
+1003029075,,EP,West Virginia,25309,Internal Medicine,,Medicare,2014,Stage 1,3,3,2015,2014,1,13H1301PCJ2MEAF,CHP-023136,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.0),Complete EHR,Ambulatory,2014
+1003029075,,EP,West Virginia,25309,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01QFMOQEAL,CHP-025494,"Greenway Health, LLC",Greenway PrimeSUITE,2014 (17.20),Complete EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2012,Stage 1,1,2,2013,,1,30000001SVJQEA0,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2013,Stage 1,2,3,2014,,1,A000001CMCQIEA5,CHP-007508,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,2010,Complete EHR,Ambulatory,2011
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2013,Stage 1,2,3,2014,,1,A000001CMCQIEA5,CHP-009351,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Epic 2012,Complete EHR,Ambulatory,2011
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O5BRYEAV,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2015,Stage 2,4,2,2016,,1,A014E01O5BRYEAV,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2016,Stage 2,5,1,2017,,1,0014ERG9M6BUS1A,CHP-022034,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2014 (June 2013 CQMs),Modular EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2016,Stage 2,5,1,2017,,1,0014ERG9M6BUS1A,CHP-022044,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2014 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2016,Stage 2,5,1,2017,,1,0014ERG9M6BUS1A,CHP-027708,Epic Systems Corporation,Beacon Oncology 2014 Certified Module,Epic 2015,Modular EHR,Ambulatory,2014
+1003029141,,EP,Wisconsin,54601,Anesthesiology,,Medicare,2016,Stage 2,5,1,2017,,1,0014ERG9M6BUS1A,CHP-027887,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2015,Complete EHR,Ambulatory,2014
+1003029372,,EP,California,92270,Urology,,Medicare,2013,Stage 1,1,3,2014,,0,30000001TCY5EAK,CHP-007021,Waiting Room Solutions,2011 Waiting Room Solutions Web Based EHR and Practice Management System,4,Complete EHR,Ambulatory,2011
+1003029372,,EP,California,92270,Urology,,Medicare,2014,Stage 1,2,10,2015,2013,0,30000005ZQQLEAK,CHP-006736,McKesson,Horizon Ambulatory Care™,v11,Complete EHR,Ambulatory,2011
+1003029372,,EP,California,92270,Urology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RCQRGEAX,CHP-021748,McKesson,Horizon Ambulatory Care™,12.1,Complete EHR,Ambulatory,2014
+1003029372,,EP,California,92270,Urology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RCQRGEAX,CHP-022823,"CompuGroup Medical, Inc.",CGM CLINICAL™,8.2,Complete EHR,Ambulatory,2014
+1003029372,,EP,California,92270,Urology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RCQRGEAX,CHP-023290,Varian Medical Systems,ARIA Oncology Information System (for Radiation Oncology),Version 11 MR5,Complete EHR,Ambulatory,2014
+1003029372,,EP,California,92270,Urology,,Medicare,2015,Stage 2,3,2,2016,,0,1314E01RCQRGEAX,CHP-023291,Varian Medical Systems,ARIA Oncology Information System (for Medical Oncology),Version 11 MR5,Complete EHR,Ambulatory,2014
+1003029372,,EP,California,92270,Urology,,Medicare,2016,Stage 2,4,1,2017,,0,1314E01RCQJREAX,CHP-028529,"IntrinsiQ Specialty Solutions, Inc. FBO Healthtronics Information Technology Solutions Inc.",meridianSPECIALTY System,7.1.10,Modular EHR,Ambulatory,2014
+1003029430,,EP,Kansas,66211,Surgery,,Medicare,2015,Stage 1,,1,2016,,0,1314E01OUSIGEAF,CHP-019660,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003029430,,EP,Kansas,66211,Surgery,,Medicare,2015,Stage 1,,1,2016,,0,1314E01OUSIGEAF,CHP-022969,HCA Physician Services,M.A.P.,v1.2.0,Modular EHR,Ambulatory,2014
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2012,Stage 1,1,12,2012,,1,A000001CUNN6EAJ,CHP-006565,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry, and P2 Sentinel","2012.01.01, P2 Sentinel v4.5.2",Complete EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2012,Stage 1,1,12,2012,,1,A000001CUNN6EAJ,CHP-006942,HealthPort,eSmartLog,version 1.1,Modular EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2012,Stage 1,1,12,2012,,1,A000001CUNN6EAJ,CHP-009024,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry and P2 Sentinel",2012.01.05 and P2 Sentinel v. 4.5.2,Complete EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301GYT9HEAR,CHP-006942,HealthPort,eSmartLog,version 1.1,Modular EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301GYT9HEAR,CHP-009356,Cerner Corporation,"Powerchart, Cerner Healthe, IQHealth, HealthSentry and P2 Sentinel",2012.01.09 and P2 Sentinel v. 4.5.2,Complete EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301GYT9HEAR,CHP-019282,Cerner Corporation,"Powerchart, Cerner Healthe, Cerner Patient Portal, HealthSentry, and P2 Sentinel",2012.01.16 and P2 Sentinel v. 4.5.2,Complete EHR,Ambulatory,2011
+1003029562,,EP,Pennsylvania,17033,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301GYT9HEAR,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003029646,,EP,Ohio,44195,Urology,,Medicare,2013,Stage 1,1,9,2013,,0,30000001SWAZEA0,CHP-007349,Epic Systems Corporation,EpicCare Ambulatory - Core EMR,Spring 2008,Complete EHR,Ambulatory,2011
+1003029828,,EP,Texas,78758,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,9,2014,2014,0,A014E01NDQHJEAX,CHP-022118,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003029828,,EP,Texas,78758,Orthopaedic Surgery,,Medicare,2015,Stage 1,2,2,2016,,0,1314E01PI0MPEAT,CHP-023393,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2012,Stage 1,1,6,2012,,1,30000005YGFYEAO,CHP-007964,Allscripts,Allscripts Professional EHR,9.3,Complete EHR,Ambulatory,2011
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301IFPBCEAF,CHP-008576,Allscripts,Allscripts Professional EHR,10,Complete EHR,Ambulatory,2011
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2013,Stage 1,2,2,2014,,1,A0H1301IFPBCEAF,CHP-019710,Allscripts,Allscripts Professional EHR,Version 13.0,Complete EHR,Ambulatory,2014
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2014,Stage 1,3,2,2015,2014,1,A014E01O3DA6EAF,CHP-022201,Allscripts,ALLSCRIPTS PROFESSIONAL EHR,13.0 (CQM PHASE 3),Complete EHR,Ambulatory,2014
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01RBGYUEAT,CHP-028425,"athenahealth, Inc.",athenaClinicals,15.11,Complete EHR,Ambulatory,2014
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATA1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Complete EHR,Ambulatory,2014
+1003029836,,EP,New Jersey,8080,Urology,,Medicare,2016,Stage 2,5,1,2017,,1,0014EYA21FA0PLP,14.07.07.2880.ATI1.04.1.1.160721,"athenahealth, Inc.",athenaClinicals,16.7,Modular EHR,Inpatient,2014
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2011,Stage 1,1,10,2011,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2012,Stage 1,2,1,2013,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2013,Stage 1,3,2,2014,,1,30000001SVJFEAK,CHP-007514,GE Healthcare,Centricity EMR,9.5,Complete EHR,Ambulatory,2011
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2014,Stage 1,4,12,2014,2013,1,A000001O5BULEAR,CHP-009440,GE Healthcare,Centricity Practice Solution,11,Modular EHR,Ambulatory,2011
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2014,Stage 1,4,12,2014,2013,1,A000001O5BULEAR,CHP-021115,"Medical Office Technologies, Inc.",ezAccess Patient Portal,3,Modular EHR,Ambulatory,2011
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RM6SCEA1,CHP-022993,"Medical Office Technologies, Inc.",ezAccess Patient Portal,3,Modular EHR,Ambulatory,2014
+1003029869,,EP,Alabama,35007,Internal Medicine,,Medicare,2015,Stage 2,5,2,2016,,1,1314E01RM6SCEA1,CHP-028848,GE Healthcare,Centricity Practice Solution,12.0 R4,Modular EHR,Ambulatory,2014
+1003030040,,EP,Ohio,43220,Surgery,,Medicare,2014,Stage 1,1,2,2015,2014,0,A014E01NDKFXEAX,CHP-022111,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,,2014
+1003030040,,EP,Ohio,43220,Surgery,,Medicare,2015,Stage 1,2,2,2016,,0,A014E01NDKFXEAX,CHP-022111,"eClinicalWorks, LLC",eClinicalWorks,V10,Complete EHR,Ambulatory,2014
+1003030578,,EP,Missouri,73116,Neurological Surgery,,Medicare,2013,Stage 1,1,2,2014,,0,30000005ZFAIEA4,CHP-006673,"HCA Information Technology & Services, Inc.",hCare EHR Dashboard for EP v 1.0,1,Modular EHR,Ambulatory,2011
+1003030578,,EP,Missouri,73116,Neurological Surgery,,Medicare,2013,Stage 1,1,2,2014,,0,30000005ZFAIEA4,CHP-007502,"eClinicalWorks, LLC",eClinicalWorks,9,Complete EHR,Ambulatory,2011
+1003030719,,EP,Minnesota,55454,Pediatrics,,Medicare,2015,Stage 1,,1,2016,,0,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003031212,,EP,Florida,34232,Internal Medicine,,Medicare,2012,Stage 1,1,10,2012,,1,30000011CLYSEAI,CHP-008718,NextGen Healthcare,NextGen Ambulatory EHR,5.7,Complete EHR,Ambulatory,2011
+1003031212,,EP,Florida,34232,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000011CLYSEAI,CHP-008718,NextGen Healthcare,NextGen Ambulatory EHR,5.7,Complete EHR,Ambulatory,2011
+1003031212,,EP,Florida,34232,Internal Medicine,,Medicare,2014,Stage 1,3,8,2016,2013,1,30000001SXPBEAS,CHP-007454,"Altos Solutions, Inc",OncoEMR,2.6,Complete EHR,Ambulatory,2011
+1003031212,,EP,Florida,34232,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,1314E01RBGQUEAD,CHP-028278,"Flatiron Health, Inc.",OncoEMR by Flatiron Health,2.7,Modular EHR,Ambulatory,2014
+1003031261,,EP,Tennessee,37203,Orthopaedic Surgery,,Medicare,2014,Stage 1,1,10,2014,2013,0,A000001COOITEAX,CHP-009386,"Greenway Health, LLC",PrimeSuite,2011 (16.1),Complete EHR,Ambulatory,2011
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2012,Stage 1,1,12,2012,,1,30000001SVGHEAS,CHP-007427,Allscripts,Allscripts Enterprise E HR,11.2,Complete EHR,Ambulatory,2011
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2013,Stage 1,2,2,2014,,1,30000001SVGHEAS,CHP-007427,Allscripts,Allscripts Enterprise E HR,11.2,Complete EHR,Ambulatory,2011
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01O2VOAEAF,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2014,Stage 2,3,2,2015,2014,1,A014E01O2VOAEAF,CHP-022053,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,A014E01O2VOAEAF,CHP-022045,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic 2012 (June 2013 CQMs),Complete EHR,Ambulatory,2014
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2015,Stage 2,4,1,2016,,1,A014E01O2VOAEAF,CHP-022053,Epic Systems Corporation,EpicCare Inpatient 2014 Certified EHR Suite,Epic 2012 (April 2013 CQMs),Modular EHR,Inpatient,2014
+1003031691,,EP,North Carolina,27607,Internal Medicine,,Medicare,2016,Stage 2,5,1,2017,,1,1314E01PNI95EAB,CHP-024722,Epic Systems Corporation,EpicCare Ambulatory 2014 Certified EHR Suite,Epic2014 (June 2013 CQMs) - 1,Complete EHR,Ambulatory,2014
+1003032111,,EP,Missouri,65212,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PLHZOEAT,CHP-019314,Cerner Corporation,P2 Sentinel (Powered by Sensage),5,Modular EHR,Ambulatory,2014
+1003032111,,EP,Missouri,65212,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PLHZOEAT,CHP-023078,Cerner Corporation,HealthSentry,2014.05,Modular EHR,Ambulatory,2014
+1003032111,,EP,Missouri,65212,Psychiatry & Neurology,,Medicare,2014,Stage 1,1,9,2014,2014,0,1314E01PLHZOEAT,CHP-023081,Cerner Corporation,HealthSentry,2014.04,Modular EHR,Ambulatory,2014

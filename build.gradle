@@ -1,0 +1,31 @@
+group 'labs'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'groovy'
+apply plugin: 'java'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.codehaus.groovy:groovy-all:2.4.8'
+    compile 'joda-time:joda-time:1.6.2'
+    compile 'io.github.http-builder-ng:http-builder-ng-core:0.16.0'
+    compile 'com.univocity:univocity-parsers:2.4.1'
+    testCompile( group: 'org.spockframework', name: 'spock-core', version: '1.0-groovy-2.4') {
+    }
+    // https://mvnrepository.com/artifact/org.apache.commons/commons-math3
+    compile group: 'org.apache.commons', name: 'commons-math3', version: '3.0'
+    compile 'com.sparkjava:spark-core:2.5.5'
+
+    //compile('org.codehaus.groovy.modules.http-builder:http-builder:0.5.0')
+
+    // https://mvnrepository.com/artifact/org.json/json
+    compile group: 'org.json', name: 'json', version: '20090211'
+    // https://mvnrepository.com/artifact/org.apache.commons/commons-email
+    compile group: 'org.apache.commons', name: 'commons-email', version: '1.1'
+    // https://mvnrepository.com/artifact/commons-net/commons-net
+    compile group: 'commons-net', name: 'commons-net', version: '3.3'
+
+}
