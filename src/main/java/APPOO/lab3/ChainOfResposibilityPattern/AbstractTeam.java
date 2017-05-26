@@ -13,11 +13,15 @@ public abstract class AbstractTeam {
 
     protected AbstractTeam nextMember;
 
+    protected Radish radish;
+
     public void setNextMember(AbstractTeam nextMember) {
         this.nextMember = nextMember;
     }
 
-    public void memberAction(Radish radish){
+    public void memberAction(double weight){
+
+        radish = new Radish(weight);
 
         addMember();
         if(radish.getWeight() <= this.getMaxWeight()) {
@@ -27,7 +31,7 @@ public abstract class AbstractTeam {
             return;
         }
         if(nextMember != null){
-            nextMember.memberAction(radish);
+            nextMember.memberAction(weight);
         }
         if (nextMember == null) {
             System.out.println("This Radish is too heavy!");

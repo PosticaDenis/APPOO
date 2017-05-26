@@ -12,18 +12,18 @@ import java.util.List;
 public class CorrelationCalculator {
 
     private PearsonsCorrelation correlation = new PearsonsCorrelation();
-    private DataProcessor dataProcessor;
+    private List<ProcessedMedicalDataBean> processedMedicalDataBeans;
     private double[][] columns;
 
-    public CorrelationCalculator(DataProcessor dataProcessor) {
-        this.dataProcessor = dataProcessor;
-        this.columns  = new double[8][dataProcessor.getProcessedMedicalDataBeans().size()];
+    public CorrelationCalculator(List<ProcessedMedicalDataBean> processedMedicalDataBeans) {
+        this.processedMedicalDataBeans = processedMedicalDataBeans;
+        this.columns  = new double[8][processedMedicalDataBeans.size()];
         setColumns();
     }
 
     private void setColumns() {
 
-        List<ProcessedMedicalDataBean> processedMedicalDataBeans = dataProcessor.getProcessedMedicalDataBeans();
+        //List<ProcessedMedicalDataBean> processedMedicalDataBeans = dataProcessor.getProcessedMedicalDataBeans();
         int i = 0;
 
         for (ProcessedMedicalDataBean data: processedMedicalDataBeans) {
@@ -48,7 +48,7 @@ public class CorrelationCalculator {
 
         System.out.println("The results are: ");
 
-        // if the result is NaN it means that the variation of variables in one of the column is too small to taken into consideration.
+        // if the result is NaN it means that the variation of variables in one of the column is too small to be taken into consideration.
         for (int i = 0; i<7; i++) {
             System.out.println(correlation.correlation(columns[i], columns[i+1]));
         }

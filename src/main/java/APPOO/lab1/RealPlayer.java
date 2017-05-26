@@ -24,12 +24,6 @@ public class RealPlayer implements ThePlayer{
     public Board getBoard() {
         return board;
     }
-
-
-    /*public void setBoard(Board board) {
-        this.board = board;
-    }*/
-
     public int[] chooseLocation() {
 
         int[] location = getLocationToAttack(false);
@@ -75,7 +69,7 @@ public class RealPlayer implements ThePlayer{
         }
     }
 
-    private String setPlayerNickname() {
+    public String setPlayerNickname() {
         System.out.println("Introduce the nickname of the player:");
 
         Scanner scanner = new Scanner(System.in);

@@ -5,9 +5,10 @@ import java.util.List;
 /**
  * Created by Dennis on 29-Apr-17.
  **/
-public class NonPlayerCharacter implements ThePlayer{
+public abstract class NonPlayerCharacter implements ThePlayer{
 
     private Board board;
+    private String nickname;
 
     NonPlayerCharacter(boolean myTurn) {
         board = new Board();
@@ -27,5 +28,13 @@ public class NonPlayerCharacter implements ThePlayer{
 
     public Board getBoard() {
         return board;
+    }
+
+    public void setPlayerNickname(String nickname) {
+        this.nickname = nickname;
+    }
+
+    public String getPlayerNickname() {
+        return nickname;
     }
 }

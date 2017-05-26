@@ -33,7 +33,7 @@ public class ChainPattern {
                 System.out.println("Enter the kg amount of the Radish.");
                 System.out.print(">");
                 double d = Double.parseDouble(new BufferedReader(new InputStreamReader(System.in)).readLine());
-                getChainOfMembers().memberAction(new Radish(d));
+                getChainOfMembers().memberAction(d);
             }
         }
         catch (Exception e) {

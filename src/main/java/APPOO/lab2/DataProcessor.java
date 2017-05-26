@@ -60,7 +60,6 @@ public class DataProcessor {
         if (data == null ){
             return -1.0;
         }
-        //System.out.println(data);
         return hashSet.contains(data)? hashSet.headSet(data).size(): -1;
     }
 

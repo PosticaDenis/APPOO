@@ -12,7 +12,7 @@ public class Main {
         String path = "resources/MU_REPORT.csv";
 
         DataProcessor dataProcessor = new DataProcessor(path);
-        CorrelationCalculator correlationCalculator = new CorrelationCalculator(dataProcessor);
+        CorrelationCalculator correlationCalculator = new CorrelationCalculator(dataProcessor.getProcessedMedicalDataBeans());
 
         correlationCalculator.getResults();
     }
